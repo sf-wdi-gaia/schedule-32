@@ -401,9 +401,9 @@
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:17am Module 1** | Labor Day |  Orientation  |  [CSS selectors and Box Model ()][1-2B]    | [Functions and scope ()][1-3C]  | Assesment
+ **9:00am Module 1** | Labor Day |  Orientation  |  [CSS selectors and Box Model ()][1-2B]    | [Functions and scope ()][1-3C]  | Assesment
  **10:45am Module 2** | Labor Day   |   Icebreakers  |  [JavaScript DataTypes()][] |  [Functions Lab()][] | Review  
- **1:30pm Module 3** | Labor Day    |  [How the internet works (Ilias)][1-1C]  |  [JS Objects Lab]()[] | Outcomes  | [Debugging JS + Chrome Dev Tools()][]
+ **1:15pm Module 3** | Labor Day    |  [How the internet works (Ilias)][1-1C]  |  [JS Objects Lab]()[] | Outcomes  | [Debugging JS + Chrome Dev Tools()][]
 **3:00pm Module 4** | Labor Day | [Navigating the file system + some meta skills ()][1-1D]  | [JS Controll Flow()][] |  [DOM Manipulation()][]  |   [Lab: JavaScript functions (Ilias)][1-3D]   | [Lab: JS Racer (Alex) ][1-4E]       
 **Training** | Labor Day | [Lab: Command line ()][1-1E] + Read for Tomorrow | [Lab: Build a website ()][1-2E] + Controll Flow reading| [LOTR DOM Manipulation Lab()][]  | JS Racer
 
