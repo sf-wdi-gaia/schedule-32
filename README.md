@@ -401,11 +401,11 @@
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:17am Module 1** | Labor Day |  Orientation  |    [Chrome dev tools (Ilias)][1-2A]  | [Functions and scope (Ilias)][1-3C]  | Assesment
- **10:45am Module 2** | Icebreakers (Annabelle)   |     [CSS selector basics (Ben)][1-2B]       |      [JavaScript objects (Ben)][1-3B]          |  [Debugging in JavaScript (Alex)][1-4B]| Outcomes  
- **1:30pm Module 3** | [How the internet works (Ilias)][1-1C]     |  [Box model and positioning (Ben)][1-2C]  |       |[DOM manipulation and events (Ilias)][1-4C]  | [Questions in a Hat (Ilias)][1-4F]
-**3:00pm Module 4** | [Navigating the file system + some meta skills (Alex)][1-1D]       |    [Lab: CSS website replication (Alex)][1-2D]          |   [Lab: JavaScript functions (Ilias)][1-3D]   | [Lab: DOM manipulation LoTR (Ilias)][1-4D]     |    [Lab: Tic-Tac-Toe (Alex) ][1-4E]       
-**Training** | [Lab: Command line (Alex)][1-1E]    | [Lab: Build a website (Alex)][1-2E]| Finish Lab  | Finish Lab|  Finish Lab  
+ **9:17am Module 1** | Labor Day |  Orientation  |    [Chrome dev tools ()][1-2A]  | [Functions and scope ()][1-3C]  | Assesment
+ **10:45am Module 2** | Labor Day   |   Icebreakers  | [CSS selectors and Box Model ()][1-2B] |  [Functions Lab()][] | Review  
+ **1:30pm Module 3** | Labor Day    |  [How the internet works (Ilias)][1-1C]  |  [JavaScript DataTypes()][] | Outcomes  | [Debugging JS + Chrome Dev Tools()][]
+**3:00pm Module 4** | Labor Day | [Navigating the file system + some meta skills ()][1-1D]  |  [JS Objects Lab]()[] |  [DOM Manipulation()][]  |   [Lab: JavaScript functions (Ilias)][1-3D]   | [Lab: JS Racer (Alex) ][1-4E]       
+**Training** | Labor Day | [Lab: Command line ()][1-1E] + Read for Tomorrow | [Lab: Build a website ()][1-2E] + Controll Flow reading| [LOTR DOM Manipulation Lab()][]  | JS Racer
 
 [1-1C]: https://github.com/sf-wdi-29/how-the-internet-works "How the Internet Works"
 [1-1D]: https://github.com/sf-wdi-29/Terminal-Basics-Navigating-the-Filesystem/blob/master/readme.md "Navigating the File System"
