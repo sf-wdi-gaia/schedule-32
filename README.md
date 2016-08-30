@@ -404,7 +404,7 @@
  **9:00am Module 1** | Labor Day |  Orientation  |  [CSS selectors and Box Model (Ben)][1-2B]    | [Functions and scope (Alex)][1-3C]  | Assesment
  **10:45am Module 2** | Labor Day   |   Icebreakers  |  [JavaScript DataTypes(Ben)][1-3A] |  [Functions Lab(Alex)][1-3D] | Review  
  **1:15pm Module 3** | Labor Day    |  [How the internet works (Ilias)][1-1C]  |  [JS Objects(Ben)][1-3B] | Outcomes  | [Debugging JS + Chrome Dev Tools(Ben)][1-2A], [pt 2][1-4B]
-**3:00pm Module 4** | Labor Day | [Navigating the file system + some meta skills (Ilias)][1-1D]  | [JS Controll Flow(Ben)][1-4A] |  [DOM Manipulation(Alex)][1-4C]  |   [Lab: JavaScript functions (Alex)][1-3D]   | [Lab: JS Racer (Alex) ][1-4E]       
+**3:00pm Module 4** | Labor Day | [Navigating the file system + some meta skills (Ilias)][1-1D]  | [JS Controll Flow(Ben)][1-4A] |  [DOM Manipulation(Alex)][1-4C]  | [Lab: JS Racer (Alex) ][1-4E]       
 **Training** | Labor Day | [Lab: Command line (Ilias)][1-1E] + Read for Tomorrow | [Lab: Build a website (Ben)][1-2E] + Controll Flow reading| [LOTR DOM Manipulation Lab(Alex)][1-4D]  | JS Racer
 
 [1-1C]: https://github.com/sf-wdi-gaia/how-the-internet-works "How the Internet Works"
