@@ -427,7 +427,7 @@
 [1-4B]: https://github.com/sf-wdi-gaia/debugging-javascript "Debugging in JS"
 [1-4C]: https://github.com/sf-wdi-gaia/dom-manipulation-and-events "DOM Manipulation & Events"
 [1-4D]: https://github.com/sf-wdi-gaia/dom-manipulation-lotr-lab "Lab: DOM Manipulation LoTR"
-[1-4E]: https://github.com/sf-wdi-gaia/tic-tac-toe "Lab: Tic-Tac-Toe"
+[1-4E]: #""
 [1-4F]: https://github.com/sf-wdi-gaia/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
 
 #### Daily Schedule Overview
