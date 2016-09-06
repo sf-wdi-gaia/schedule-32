@@ -405,11 +405,11 @@
  **10:45am Module 2** | Labor Day   |   Icebreakers  |  [JavaScript DataTypes(Ben)][1-3A] |  [Functions Lab(Alex)][1-3D] | Review  
  **1:15pm Module 3** | Labor Day    |  [How the internet works (Ilias)][1-1C]  |  [JS Objects(Ben)][1-3B] | Outcomes  | [Debugging JS + Chrome Dev Tools(Ben)][1-2A], [pt 2][1-4B]
 **3:00pm Module 4** | Labor Day | [Navigating the file system + some meta skills (Alex)][1-1D]  | [JS Control Flow(Ben)][1-4A] |  [DOM Manipulation(Alex)][1-4C]  | [Weekend Lab: JS Racer (Alex) ][1-4E]       
-**Training** | Labor Day | [Lab: Command line (Alex)][1-1E] + [CSS Selector Basics (Review)][1-2B] | [Lab: Build a website (Ben)][1-2E] + Control Flow reading| [LOTR DOM Manipulation Lab(Alex)][1-4D]  | JS Racer
+**Training** | Labor Day | [Command Line Murder Mystery (Alex)][1-1E] + [CSS Selector Basics (Review)][1-2B] | [Lab: Build a website (Ben)][1-2E] + Control Flow reading| [LOTR DOM Manipulation Lab(Alex)][1-4D]  | JS Racer
 
 [1-1C]: https://github.com/sf-wdi-gaia/how-the-internet-works "How the Internet Works"
 [1-1D]: https://github.com/sf-wdi-gaia/Terminal-Basics-Navigating-the-Filesystem/blob/master/readme.md "Navigating the File System"
-[1-1E]: https://github.com/sf-wdi-gaia/command-line-lab "Lab: Command Line"
+[1-1E]: https://github.com/sf-wdi-gaia/clmystery "Lab: Command Line"
 
 [1-2A]: https://github.com/sf-wdi-gaia/chrome-dev-tools "Chrome Dev Tools"
 [1-2B]: https://github.com/sf-wdi-gaia/css-selector-basics "CSS Selector Basics"
