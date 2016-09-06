@@ -411,11 +411,15 @@
 [1-1D]: https://github.com/sf-wdi-gaia/Terminal-Basics-Navigating-the-Filesystem/blob/master/readme.md "Navigating the File System"
 [1-1E]: https://github.com/sf-wdi-gaia/command-line-lab "Lab: Command Line"
 
-[1-2A]: https://github.com/sf-wdi-gaia/chrome-dev-tools "Chrome Dev Tools"
+[1-2A]: # "Chrome Dev Tools"
+<!-- https://github.com/sf-wdi-gaia/chrome-dev-tools "Chrome Dev Tools" -->
 [1-2B]: https://github.com/sf-wdi-gaia/css-selector-basics "CSS Selector Basics"
 [1-2C]: https://github.com/sf-wdi-gaia/css-box-model-and-positioning "Box Model and Positioning"
-[1-2D]: https://github.com/sf-wdi-gaia/m4-CSS-lab "Lab: CSS website replication"
-[1-2E]: https://github.com/sf-wdi-gaia/build-a-website "Lab: Build a website"
+[1-2D]: #
+<!-- https://github.com/sf-wdi-gaia/m4-CSS-lab "Lab: CSS website replication" -->
+
+[1-2E]: # "Lab: CSS Website Replication"
+<!-- https://github.com/sf-wdi-gaia/build-a-website "Lab: Build a website" -->
 
 [1-3A]: https://github.com/sf-wdi-gaia/js-data-types "Data types, Variables and Arrays"
 [1-3B]: https://github.com/sf-wdi-gaia/js-objects "JavaScript Objects"
@@ -423,8 +427,11 @@
 [1-3D]: https://github.com/sf-wdi-gaia/js-functions-lab "Lab: JavaScript functions"
 [1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor"
 
-[1-4A]: https://github.com/sf-wdi-gaia/control-flow "Mastering Control Flow"
-[1-4B]: https://github.com/sf-wdi-gaia/debugging-javascript "Debugging in JS"
+[1-4A]: # "Mastering Control Flow"
+<!-- https://github.com/sf-wdi-gaia/control-flow "Mastering Control Flow" -->
+
+[1-4B]: # "Debugging with Chrome Dev Tools"
+<!-- https://github.com/sf-wdi-gaia/debugging-javascript "Debugging in JS" -->
 [1-4C]: https://github.com/sf-wdi-gaia/dom-manipulation-and-events "DOM Manipulation & Events"
 [1-4D]: https://github.com/sf-wdi-gaia/dom-manipulation-lotr-lab "Lab: DOM Manipulation LoTR"
 [1-4E]: https://github.com/sf-wdi-gaia/js-racer "Weekend Lab: JS Racer"
