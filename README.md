@@ -401,37 +401,35 @@
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Module 1** | Labor Day |  Orientation  |  [CSS Box Model and Positioning (Ben)][1-2B]    | [Functions and scope (Alex)][1-3C]  | Assesment
- **10:45am Module 2** | Labor Day   |   Icebreakers  |  [JavaScript DataTypes(Ben)][1-3A] |  [Functions Lab(Alex)][1-3D] | Review  
- **1:15pm Module 3** | Labor Day    |  [How the internet works (Ilias)][1-1C]  |  [JS Objects(Ben)][1-3B] | Outcomes  | [Debugging JS + Chrome Dev Tools(Ben)][1-2A], [pt 2][1-4B]
-**3:00pm Module 4** | Labor Day | [Navigating the file system + some meta skills (Alex)][1-1D]  | [JS Control Flow(Ben)][1-4A] |  [DOM Manipulation(Alex)][1-4C]  | [Weekend Lab: JS Racer (Alex) ][1-4E]       
-**Training** | Labor Day | [Command Line Murder Mystery (Alex)][1-1E] + [CSS Selector Basics (Review)][1-2B] | [Lab: Build a website (Ben)][1-2E] + Control Flow reading| [LOTR DOM Manipulation Lab(Alex)][1-4D]  | JS Racer
+ **9:00am Module 1** | Labor Day |  Orientation                 |  [CSS Box Model and Positioning (Ben)][1-2A]    | [Functions and scope (Alex)][1-3C]  | Assesment
+ **10:45am Module 2** | Labor Day |   Icebreakers               |  [Lab: Build a website (Ben)][1-2B]  |  [Functions Lab(Alex)][1-3D] | Review  
+ **1:15pm Module 3** | Labor Day  |  [How the internet works (Ilias)][1-1C]  |   [JavaScript DataTypes(Ben)][1-2C] | Outcomes  | [Debugging JS + Chrome Dev Tools(Ben)][1-4A], [pt 2][1-4B]
+**3:00pm Module 4** | Labor Day | [Navigating the file system + some meta skills (Alex)][1-1D]  |   [JS Objects(Ben)][1-2D] |  [DOM Manipulation(Alex)][1-4C]  | [Weekend Lab: JS Racer (Alex) ][1-4E]       
+**Training**                | Labor Day | [Command Line Murder Mystery (Alex)][1-1E] + [CSS Selector Basics (Review)][1-1F] |  [Lab: JS Control Flow(Ben)][1-2E]  + Finish Labs   | [LOTR DOM Manipulation Lab(Alex)][1-4D]  | JS Racer
 
 [1-1C]: https://github.com/sf-wdi-gaia/how-the-internet-works "How the Internet Works"
 [1-1D]: https://github.com/sf-wdi-gaia/Terminal-Basics-Navigating-the-Filesystem/blob/master/readme.md "Navigating the File System"
 [1-1E]: https://github.com/sf-wdi-gaia/clmystery "Lab: Command Line"
+[1-1F]: https://github.com/sf-wdi-gaia/css-selector-basics "CSS Selector Basics"
 
-[1-2A]: # "Chrome Dev Tools"
-<!-- https://github.com/sf-wdi-gaia/chrome-dev-tools "Chrome Dev Tools" -->
-[1-2B]: https://github.com/sf-wdi-gaia/css-selector-basics "CSS Selector Basics"
-[1-2C]: https://github.com/sf-wdi-gaia/css-box-model-and-positioning "Box Model and Positioning"
-[1-2D]: #
-<!-- https://github.com/sf-wdi-gaia/m4-CSS-lab "Lab: CSS website replication" -->
+[1-2A]: https://github.com/sf-wdi-gaia/css-box-model-and-positioning "Box Model and Positioning"
+[1-2B]: https://github.com/sf-wdi-gaia/site-replication-css-lab "Lab: Build a website"
+[1-2C]: https://github.com/sf-wdi-gaia/js-data-types "Data types, Variables and Arrays"
+[1-2D]: https://github.com/sf-wdi-gaia/js-objects "JavaScript Objects"
+[1-2E]: https://github.com/sf-wdi-gaia/control-flow "Mastering Control Flow"
 
-[1-2E]: # "Lab: CSS Website Replication"
-<!-- https://github.com/sf-wdi-gaia/build-a-website "Lab: Build a website" -->
 
-[1-3A]: https://github.com/sf-wdi-gaia/js-data-types "Data types, Variables and Arrays"
-[1-3B]: https://github.com/sf-wdi-gaia/js-objects "JavaScript Objects"
 [1-3C]: https://github.com/sf-wdi-gaia/js-functions-and-scope "Functions and Scope"
 [1-3D]: https://github.com/sf-wdi-gaia/js-functions-lab "Lab: JavaScript functions"
 [1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor"
 
-[1-4A]: # "Mastering Control Flow"
-<!-- https://github.com/sf-wdi-gaia/control-flow "Mastering Control Flow" -->
+
+[1-4A]: # "Chrome Dev Tools"
+<!-- https://github.com/sf-wdi-gaia/chrome-dev-tools "Chrome Dev Tools" -->
 
 [1-4B]: # "Debugging with Chrome Dev Tools"
 <!-- https://github.com/sf-wdi-gaia/debugging-javascript "Debugging in JS" -->
+
 [1-4C]: https://github.com/sf-wdi-gaia/dom-manipulation-and-events "DOM Manipulation & Events"
 [1-4D]: https://github.com/sf-wdi-gaia/dom-manipulation-lotr-lab "Lab: DOM Manipulation LoTR"
 [1-4E]: https://github.com/sf-wdi-gaia/js-racer "Weekend Lab: JS Racer"
