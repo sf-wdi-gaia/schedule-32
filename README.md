@@ -418,18 +418,12 @@
 [1-2D]: https://github.com/sf-wdi-gaia/js-objects "JavaScript Objects"
 [1-2E]: https://github.com/sf-wdi-gaia/control-flow "Mastering Control Flow"
 
-
 [1-3C]: https://github.com/sf-wdi-gaia/js-functions "Functions and Scope"
 [1-3D]: https://github.com/sf-wdi-gaia/js-functions-lab "Lab: JavaScript functions"
 [1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor"
 
-
-[1-4A]: # "Chrome Dev Tools"
-<!-- https://github.com/sf-wdi-gaia/chrome-dev-tools "Chrome Dev Tools" -->
-
-[1-4B]: # "Debugging with Chrome Dev Tools"
-<!-- https://github.com/sf-wdi-gaia/debugging-javascript "Debugging in JS" -->
-
+[1-4A]: https://github.com/sf-wdi-gaia/chrome-dev-tools "Chrome Dev Tools"
+[1-4B]: https://github.com/sf-wdi-gaia/debugging-javascript.git "Debugging with Chrome Dev Tools"
 [1-4C]: https://github.com/sf-wdi-gaia/dom-manipulation-and-events "DOM Manipulation & Events"
 [1-4D]: https://github.com/sf-wdi-gaia/dom-manipulation-lotr-lab "Lab: DOM Manipulation LoTR"
 [1-4E]: https://github.com/sf-wdi-gaia/js-racer "Weekend Lab: JS Racer"
