@@ -318,44 +318,46 @@
 
 
 
-<!--## Unit 1: The Client-->
+## Unit 1: The Client
 
-<!--#### Week 3 - Project 1:  Browser Games-->
+#### Week 3 - Project 1:  Browser Games
 
-<!--Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5-->
-<!------- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | ------------------------------------->
-<!--**9:17am Module 1** | Review Training (Alex)| [Binary Search (Ben)][3-2A]  | [Bubble Sort (Alex)][3-3A] |[ Merge Sort (Ilias)][3-4A] | Feedback-->
-<!-- **10:45am Module 2** |[Sass/CSS preprocessors (Ben) ][3-1B]| [Project 1][3-2B]  | [Project 1][3-3B] | [Project 1][3-4B]| Presentations-->
-<!--**1:30pm Module 3** |[Agile development, wireframes, and user stories (Ilias)] [3-1C]| [Project 1][3-2C]  | [Project 1][3-3C] | [Outcomes][3-4C] |  Presentations-->
-<!--**3:00pm Module 4** | [Project 1 Specs][3-1D] |  [Project 1][3-2D]|  [Project 1][3-3D]|  [Project 1][3-4D]| [Happy Hour][3-5D]-->
-<!--**Training** | Project 1 | Project 1 | Project 1 | Project 1 | [Learn you Node][3-5E] and [Fix an Issue][3-5F]-->
+Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
+----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
+**9:00am Module 1** | Review Training (Alex)| [Binary Search (Ben)][3-2A]  | [Bubble Sort (Alex)][3-3A] |[ Merge Sort (Ilias)][3-4A] | Feedback
+ **10:45am Module 2** |[Agile development, wireframes, and user stories (Ilias)][3-1B]| [Project 1][3-2B]  | [Project 1][3-3B] | [Project 1][3-4B]| Presentations
+**1:15pm Module 3** |[Intro to User Experience Design] [3-1C]| [Project 1][3-2C]  | [Project 1][3-3C] | [Outcomes][3-4C] |  Presentations
+**3:00pm Module 4** | [Project 1 Specs][3-1D] |  [Project 1][3-2D]|  [Project 1][3-3D]|  [Project 1][3-4D]| [Happy Hour][3-5D]
+**Training** | Project 1 | Project 1 | Project 1 | Project 1 | [Learn you Node][3-5E] and [Fix an Issue][3-5F]
 
-<!--[3-1A]: # "Review Training"-->
-<!--[3-1B]: https://github.com/sf-wdi-gaia/sass-intro "SASS Lesson"-->
-<!--[3-1C]: https://github.com/sf-wdi-gaia/software-development-best-practices "Agile development, wireframes, and user stories"-->
-<!--[3-1D]: https://github.com/sf-wdi-gaia/project-1 "Project 1 Specs"-->
+[3-1A]: # "Review Training"
+[3-1B]: https://github.com/sf-wdi-gaia/software-development-best-practices "Agile development, wireframes, and user stories"
+<!-- https://github.com/sf-wdi-gaia/sass-intro "SASS Lesson" -->
 
-<!--[3-2A]: https://github.com/sf-wdi-gaia/binary-search "Binary Search"-->
-<!--[3-2B]: # "Project 1"-->
-<!--[3-2C]: # "Project 1"-->
-<!--[3-2D]: # "Project 1"-->
+[3-1C]: # "Intro to User Experience Design"
+[3-1D]: https://github.com/sf-wdi-gaia/project-1 "Project 1 Specs"
 
-<!--[3-3A]: https://github.com/sf-wdi-gaia/bubble-sort "Bubble Sort"-->
-<!--[3-3B]: # "Project 1"-->
-<!--[3-3C]: # "Project 1"-->
-<!--[3-3D]: # "Project 1"-->
+[3-2A]: https://github.com/sf-wdi-gaia/binary-search "Binary Search"
+[3-2B]: # "Project 1"
+[3-2C]: # "Project 1"
+[3-2D]: # "Project 1"
 
-<!--[3-4A]: https://github.com/sf-wdi-gaia/merge-sort "Merge Sort"-->
-<!--[3-4B]: # "Project 1"-->
-<!--[3-4C]: # "Outcomes"-->
-<!--[3-4D]: # "Project 1"-->
+[3-3A]: https://github.com/sf-wdi-gaia/bubble-sort "Bubble Sort"
+[3-3B]: # "Project 1"
+[3-3C]: # "Project 1"
+[3-3D]: # "Project 1"
 
-<!--[3-5A]: # "Presentations"-->
-<!--[3-5B]: # "Presentations"-->
-<!--[3-5C]: # "Review"-->
-<!--[3-5D]: # "Happy Hour"-->
-<!--[3-5E]: https://github.com/workshopper/learnyounode "Learn you Node"-->
-<!--[3-5F]: https://github.com/sf-wdi-gaia/create-an-issue-project1 "Fix an issue"-->
+[3-4A]: https://github.com/sf-wdi-gaia/merge-sort "Merge Sort"
+[3-4B]: # "Project 1"
+[3-4C]: # "Outcomes"
+[3-4D]: # "Project 1"
+
+[3-5A]: # "Presentations"
+[3-5B]: # "Presentations"
+[3-5C]: # "Review"
+[3-5D]: # "Happy Hour"
+[3-5E]: https://github.com/workshopper/learnyounode "Learn you Node"
+[3-5F]: https://github.com/sf-wdi-gaia/create-an-issue-project1 "Fix an issue"
 
 #### Week 2 - JavaScript & Front-end Libraries
 
@@ -367,7 +369,9 @@ Time |Day 1                                      | Day 2                        
 **3:00pm Module 4** | [Lab: Callbacks & Iterators (Ben)][2-1D]    |   [Intro jQuery (Ben)][2-2D]  | [Geoquakes Lab Cont'd (Ben)][2-3C] |  [OOP Racer (Alex)][2-4C]  | [Project 0 Intro (Alex)][2-5C]
 **Training** |[Building Iterators (Ben)][2-1E] | [jQuery Datepicker Lab (Ben)][2-2E]  |  [OOP Prep (Video)][2-3E]  Finish Geoquakes Lab | [OOP Racer cont'd (Alex)][2-4C] | [Project 0 prework (Alex)][2-5E]
 
-[2-1A]: https://github.com/sf-wdi-gaia/git-and-github "Git and GitHub Branching and Pages"
+[2-1A]: # "Whiteboarding"
+<!-- https://github.com/sf-wdi-gaia/git-and-github "Git and GitHub Branching and Pages" -->
+
 [2-1B]: https://github.com/awhit012/gh-lab "Git and GitHub lab"
 [2-1C]: https://github.com/sf-wdi-gaia/js-callbacks-iterators "Callbacks & Iterators"
 [2-1D]: https://github.com/sf-wdi-gaia/js-callbacks-iterators "Callbacks & Iterators Lab"
