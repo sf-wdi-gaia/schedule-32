@@ -419,7 +419,7 @@
 [1-2E]: https://github.com/sf-wdi-gaia/control-flow "Mastering Control Flow"
 
 
-[1-3C]: https://github.com/sf-wdi-gaia/js-functions-and-scope "Functions and Scope"
+[1-3C]: https://github.com/sf-wdi-gaia/js-functions "Functions and Scope"
 [1-3D]: https://github.com/sf-wdi-gaia/js-functions-lab "Lab: JavaScript functions"
 [1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor"
 
