@@ -367,7 +367,9 @@ Time |Day 1                                      | Day 2                        
 **3:00pm Module 4** | [Lab: Callbacks & Iterators (Ben)][2-1D]    |   [Intro jQuery (Ben)][2-2D]  | [Geoquakes Lab Cont'd (Ben)][2-3C] |  [OOP Racer (Alex)][2-4C]  | [Project 0 Intro (Alex)][2-5C]
 **Training** |[Building Iterators (Ben)][2-1E] | [jQuery Datepicker Lab (Ben)][2-2E]  |  [OOP Prep (Video)][2-3E]  Finish Geoquakes Lab | [OOP Racer cont'd (Alex)][2-4C] | [Project 0 prework (Alex)][2-5E]
 
-[2-1A]: https://github.com/sf-wdi-gaia/git-and-github "Git and GitHub Branching and Pages"
+[2-1A]: # "Whiteboarding"
+<!-- https://github.com/sf-wdi-gaia/git-and-github "Git and GitHub Branching and Pages" -->
+
 [2-1B]: https://github.com/awhit012/gh-lab "Git and GitHub lab"
 [2-1C]: https://github.com/sf-wdi-gaia/js-callbacks-iterators "Callbacks & Iterators"
 [2-1D]: https://github.com/sf-wdi-gaia/js-callbacks-iterators "Callbacks & Iterators Lab"
