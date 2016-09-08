@@ -361,7 +361,7 @@
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:00am Module 1** | [Whiteboarding (Alex)][] |      [Responsive CSS (Ben)][2-2A]                |  [AJAX & API's with jQuery (Ilias)][2-3A]   |  [OOP in JS (Alex)][2-4A]     | [Assesment (Ilias)][2-5A]
+ **9:00am Module 1** | [Whiteboarding (Alex)][2-1A] |      [Responsive CSS (Ben)][2-2A]                |  [AJAX & API's with jQuery (Ilias)][2-3A]   |  [OOP in JS (Alex)][2-4A]     | [Assesment (Ilias)][2-5A]
  **10:45am Module 2** |[Git and GitHub (Alex)][2-1B]                |   [Mockups (Ben)][2-2B]  |    [Handlebars Templating (Ilias)][2-3B]  |    [OOP in JS (Alex)][2-4B]    | Review (Ilias)
 **1:15pm Module 3** |[Callbacks & Iterators (Ilias)][2-1C]                          |   [HTML Forms (Ben)][2-2C] |    [Geoquakes Lab (Ben)][2-3C]     |  Outcomes     | Culture Building (Alex)
 **3:00pm Module 4** | [Lab: Callbacks & Iterators (Ilias)][2-1D]    |  [jQuery and Browser Storage (Ben)][2-2D]  | [Geoquakes Lab Cont'd (Ben)][2-3C] |  [OOP Racer (Alex)][2-4C]  | [Project 0 Intro (Alex)][2-5C]
