@@ -403,7 +403,7 @@
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:00am Module 1** | Labor Day |  Orientation                 |  [CSS Box Model and Positioning (Ben)][1-2A]    | [Functions and scope (Alex)][1-3C]  | Assessment
  **10:45am Module 2** | Labor Day |   Icebreakers               |  [Lab: Build a website (Ben)][1-2B]  |  [Functions Lab(Alex)][1-3D] | Review  
- **1:15pm Module 3** | Labor Day  |  [How the internet works (Ilias)][1-1C]  |   [JavaScript DataTypes(Ben)][1-2C] | Outcomes  | [Debugging JS + Chrome Dev Tools(Ben)][1-4A], [pt 2][1-4B]
+ **1:15pm Module 3** | Labor Day  |  [How the internet works (Ilias)][1-1C]  |   [JavaScript DataTypes(Ben)][1-2C] | Outcomes  | [Chrome Dev Tools and Debugger(Ben)][1-4A]
 **3:00pm Module 4** | Labor Day | [Navigating the file system + some meta skills (Alex)][1-1D]  |   [JS Objects(Ben)][1-2D] |  [DOM Manipulation(Alex)][1-4C]  | [Weekend Lab: JS Racer (Alex) ][1-4E]       
 **Training**                | Labor Day | [Command Line Murder Mystery (Alex)][1-1E] + [CSS Selector Basics (Review)][1-1F] |  [Lab: JS Control Flow(Ben)][1-2E]  + Finish Labs   | [LOTR DOM Manipulation Lab(Alex)][1-4D]  | JS Racer
 
@@ -422,8 +422,10 @@
 [1-3D]: https://github.com/sf-wdi-gaia/js-functions-lab "Lab: JavaScript functions"
 [1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor"
 
-[1-4A]: https://github.com/sf-wdi-gaia/chrome-dev-tools "Chrome Dev Tools"
-[1-4B]: https://github.com/sf-wdi-gaia/debugging-javascript.git "Debugging with Chrome Dev Tools"
+[1-4A]: https://github.com/sf-wdi-gaia/chrome-dev-tools-and-debugger "Debugging with Chrome Dev Tools"
+[1-4B]: # "Debugging with Chrome Dev Tools"
+<!-- https://github.com/sf-wdi-gaia/debugging-javascript.git -->
+
 [1-4C]: https://github.com/sf-wdi-gaia/dom-manipulation-and-events "DOM Manipulation & Events"
 [1-4D]: https://github.com/sf-wdi-gaia/dom-manipulation-lotr-lab "Lab: DOM Manipulation LoTR"
 [1-4E]: https://github.com/sf-wdi-gaia/js-racer "Weekend Lab: JS Racer"
