@@ -357,45 +357,60 @@
 <!--[3-5E]: https://github.com/workshopper/learnyounode "Learn you Node"-->
 <!--[3-5F]: https://github.com/sf-wdi-gaia/create-an-issue-project1 "Fix an issue"-->
 
-<!--#### Week 2 - JavaScript & Front-end Libraries-->
+#### Week 2 - JavaScript & Front-end Libraries
 
-<!--Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5-->
-<!------- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | ------------------------------------->
-<!-- **9:17am Module 1** | [Git and GitHub (Alex)][2-1A]                     |      [jQuery & Browser Storage (Ben)][2-2A]                |  [AJAX & API's with jQuery (Alex)][2-3A]       |      [OOP in JS (Ilias)][2-4A]     | [Review (Ben)][2-5A]-->
-<!-- **10:45am Module 2** |[Lab: Git and GitHub (Alex)][2-1B]                |   [Responsive CSS & Flexbox (Ben)][2-2B]  |    [Handlebars Templating (Alex)][2-3B]                     |    [OOP in JS (Ilias)][2-4B]    | Outcomes-->
-<!--**1:30pm Module 3** |[Callbacks & Iterators (Ilias)][2-1C]                          |   [Intro to Bootstrap (Ilias)][2-2C] |    [Geoquakes Lab (Ben)][2-3C]     |        [OOP concepts (Ben)][2-4C]     | [Questions in a Hat (Ilias)][2-5B]-->
-<!--**3:00pm Module 4** | [Lab: Callbacks & Iterators (Ilias)][2-1D]                 |  [HTML Forms (Ilias)][2-2D]  | [Geoquakes Lab Cont'd (Ben)][2-3C] |  [OOP Refactor Lab (Ben)][2-4C]  | [Create an Issue (Alex)][2-5C]|-->
-<!--**Training** |[Building Iterators (Ilias)][2-1E] | [More jQuery Practice (Ben)][2-2E]  |  [OOP Prep (Ilias)][2-3E] | [OOP Refactor cont'd][2-4C] | [Weekend Lab: Fix an issue (Alex)][2-5E]-->
+Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
+----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
+ **9:00am Module 1** | [Whiteboarding (Alex)][2-1A] |      [HTML Forms (Ilias)][2-2A]                |  [AJAX & API's with jQuery (Ilias)][2-3A]   |  [OOP in JS (Alex)][2-4A]     | [Assesment (Ilias)][2-5A]
+ **10:45am Module 2** |[Git and GitHub (Alex)][2-1B]      |   [Responsive CSS (Ilias)][2-2B]  |    [Handlebars Templating (Ilias)][2-3B]  |    [OOP in JS (Alex)][2-4B]    | Review (Ilias)
+**1:15pm Module 3** |[Callbacks & Iterators (Ben)][2-1C]         |   [Mockups Lab][2-2C] |    [Geoquakes Lab (Ben)][2-3C]     |  Outcomes     | Culture Building (Alex)
+**3:00pm Module 4** | [Lab: Callbacks & Iterators (Ben)][2-1D]    |   [Intro jQuery (Ben)][2-2D]  | [Geoquakes Lab Cont'd (Ben)][2-3C] |  [OOP Racer (Alex)][2-4C]  | [Project 0 Intro (Alex)][2-5C]
+**Training** |[Building Iterators (Ben)][2-1E] | [jQuery Datepicker Lab (Ben)][2-2E]  |  [OOP Prep (Video)][2-3E]  Finish Geoquakes Lab | [OOP Racer cont'd (Alex)][2-4C] | [Project 0 prework (Alex)][2-5E]
 
-<!--[2-1A]: https://github.com/sf-wdi-gaia/git-and-github "Git and GitHub Branching and Pages"-->
-<!--[2-1B]: https://github.com/awhit012/gh-lab "Git and GitHub lab"-->
-<!--[2-1C]: https://github.com/sf-wdi-gaia/js-callbacks-iterators "Callbacks & Iterators"-->
-<!--[2-1D]: https://github.com/sf-wdi-gaia/js-callbacks-iterators "Callbacks & Iterators Lab"-->
-<!--[2-1E]: https://github.com/sf-wdi-gaia/js-building-iterators-lab "Building Iterators"-->
+[2-1A]: https://github.com/sf-wdi-gaia/whiteboarding "Whiteboarding"
+<!-- https://github.com/sf-wdi-gaia/git-and-github "Git and GitHub Branching and Pages" -->
 
-<!--[2-2A]: https://github.com/sf-wdi-gaia/jquery-and-browser-storage "jQuery and Browser Storage"-->
-<!--[2-2B]: https://github.com/sf-wdi-gaia/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"-->
-<!--[2-2C]: https://github.com/sf-wdi-gaia/bootstrap "Intro to Bootstrap"-->
-<!--[2-2D]: https://github.com/sf-wdi-gaia/html-forms "HTML Forms"-->
-<!--[2-2E]: https://github.com/sf-wdi-gaia/jquery-datepicker-lab "More jQuery Practice"-->
+[2-1B]: https://github.com/awhit012/gh-lab "Git and GitHub lab"
+[2-1C]: https://github.com/sf-wdi-gaia/js-callbacks-iterators "Callbacks & Iterators"
+[2-1D]: https://github.com/sf-wdi-gaia/js-callbacks-iterators "Callbacks & Iterators Lab"
+[2-1E]: https://github.com/sf-wdi-gaia/js-building-iterators-lab "Building Iterators"
 
-<!--[2-3A]: https://github.com/sf-wdi-gaia/ajax-with-jquery "AJAX & APIs with jQuery"-->
-<!--[2-3B]: https://github.com/sf-wdi-gaia/handlebars "Handlebars Templating"-->
-<!--[2-3C]: https://github.com/sf-wdi-gaia/geoquakes "Geoquakes Lab"-->
-<!--[2-3D]: https://github.com/sf-wdi-gaia/geoquakes "Geoquakes Lab"-->
-<!--[2-3E]: https://www.youtube.com/watch?v=SS-9y0H3Si8 "OOP Prep"-->
+[2-2A]: https://github.com/sf-wdi-gaia/html-forms "HTML Forms"
+[2-2B]:  # "Responsive CSS"
+<!-- https://github.com/sf-wdi-gaia/css-responsive-design-and-flexbox  -->
 
-<!--[2-4A]: https://github.com/sf-wdi-gaia/js-oop-flower-power "OOP Lesson"-->
-<!--[2-4B]: https://github.com/sf-wdi-gaia/js-oop-flower-power "Flower Power OOP Lab"-->
-<!--[2-4C]: https://github.com/sf-wdi-gaia/oop-concepts "OOP Concepts"-->
-<!--[2-4D]: # "OOP Concepts"-->
-<!--[2-4E]: # "OOP Refactor (cont'd)"-->
+[2-2C]: # "Mockups Lab"
+<!-- https://github.com/sf-wdi-gaia/bootstrap "Intro to Bootstrap" -->
 
-<!--[2-5A]: # "Review"-->
-<!--[2-5B]: https://github.com/sf-wdi-gaia/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"-->
-<!--[2-5C]: https://github.com/sf-wdi-gaia/create-an-issue/blob/master/readme.md "Review"-->
-<!--[2-5D]: # "Create an Issue"-->
-<!--[2-5E]: https://github.com/sf-wdi-gaia/create-an-issue/blob/master/readme.md#this-weekends-assignment "Fix an Issue"-->
+[2-2D]: # "Intro jQuery"
+<!-- https://github.com/sf-wdi-gaia/jquery-and-browser-storage "jQuery and Browser Storage" -->
+
+[2-2E]: # "jQuery Datepicker Lab"
+<!-- https://github.com/sf-wdi-gaia/jquery-datepicker-lab -->
+
+[2-3A]: https://github.com/sf-wdi-gaia/ajax-with-jquery "AJAX & APIs with jQuery"
+[2-3B]: https://github.com/sf-wdi-gaia/handlebars "Handlebars Templating"
+[2-3C]: https://github.com/sf-wdi-gaia/geoquakes "Geoquakes Lab"
+[2-3D]: https://github.com/sf-wdi-gaia/geoquakes "Geoquakes Lab"
+[2-3E]: https://www.youtube.com/watch?v=SS-9y0H3Si8 "OOP Prep"
+
+[2-4A]: https://github.com/sf-wdi-gaia/js-oop-flower-power "OOP Lesson"
+[2-4B]: # "Flower Power OOP Lab"
+[2-4C]: # "OOP Concepts"
+<!-- https://github.com/sf-wdi-gaia/oop-concepts  -->
+
+[2-4D]: # "OOP Concepts"
+[2-4E]: # "OOP Refactor (cont'd)"
+
+[2-5A]: # "Review"
+[2-5B]: # "Questions in a Hat"
+<!-- https://github.com/sf-wdi-gaia/questions-in-a-hat/blob/master/week-02.md -->
+
+[2-5C]: # "Review"
+[2-5D]: # "Create an Issue"
+[2-5E]: # "Fix an Issue"
+<!-- https://github.com/sf-wdi-gaia/create-an-issue/blob/master/readme.md#this-weekends-assignment -->
+
 
 #### Week 1 - Fundamentals and Tools
 
@@ -413,7 +428,7 @@
 [1-1F]: https://github.com/sf-wdi-gaia/css-selector-basics "CSS Selector Basics"
 
 [1-2A]: https://github.com/sf-wdi-gaia/css-box-model-and-positioning "Box Model and Positioning"
-[1-2B]: https://github.com/sf-wdi-gaia/site-replication-css-lab "Lab: Build a website"
+[1-2B]: https://github.com/sf-wdi-gaia/site-replication-css-lab "Lab: CSS Site Replication"
 [1-2C]: https://github.com/sf-wdi-gaia/js-data-types "Data types, Variables and Arrays"
 [1-2D]: https://github.com/sf-wdi-gaia/js-objects "JavaScript Objects"
 [1-2E]: https://github.com/sf-wdi-gaia/control-flow "Mastering Control Flow"
@@ -421,6 +436,7 @@
 [1-3C]: https://github.com/sf-wdi-gaia/js-functions "Functions and Scope"
 [1-3D]: https://github.com/sf-wdi-gaia/js-functions-lab "Lab: JavaScript functions"
 [1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor"
+
 
 [1-4A]: https://github.com/sf-wdi-gaia/chrome-dev-tools-and-debugger "Debugging with Chrome Dev Tools"
 [1-4B]: # "Debugging with Chrome Dev Tools"
@@ -430,6 +446,8 @@
 [1-4D]: https://github.com/sf-wdi-gaia/dom-manipulation-lotr-lab "Lab: DOM Manipulation LoTR"
 [1-4E]: https://github.com/sf-wdi-gaia/js-racer "Weekend Lab: JS Racer"
 [1-4F]: https://github.com/sf-wdi-gaia/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
+
+[1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor"
 
 #### Daily Schedule Overview
 
