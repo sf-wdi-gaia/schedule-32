@@ -376,7 +376,7 @@ Time |Day 1                                      | Day 2                        
 [2-1E]: https://github.com/sf-wdi-gaia/js-building-iterators-lab "Building Iterators"
 
 [2-2A]: https://github.com/sf-wdi-gaia/html-forms "HTML Forms"
-[2-2B]:  # "Responsive CSS"
+[2-2B]: https://github.com/sf-wdi-gaia/responsive-css "Responsive CSS"
 <!-- https://github.com/sf-wdi-gaia/css-responsive-design-and-flexbox  -->
 
 [2-2C]: # "Mockups Lab"
