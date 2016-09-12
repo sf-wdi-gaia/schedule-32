@@ -6,7 +6,7 @@
 <!------- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | ------------------------------------->
 <!--**9:30am** | [Scrum][12-1A] | [Scrum][12-2A] | [Scrum][12-3A] | [Project Work][12-4A] | [Sleep][12-5A]-->
 <!--**9:45am** | [Project Work][12-1B] | [Project Work][12-2B] | [Project Work][12-3B] | [Project Work][12-4B] | [Sleep][12-5B]  -->
-<!--**11am** |[Mock Interviews][12-1C] | [Mock Interviews][12-2C] | [Project Work][12-3C] | [Project Work][12-4C] | [Outcomes][12-5C]-->
+<!--**11am** |[Mock Interviews][12-1C] | [Mock Interviews][12-2C] | [Project Work][12-3C] | [Project Work][12-4C] | [Outcomes][12-5C]-->as
 <!--**1:30pm - 5pm** |[Project Work][12-1D] | [Project Work][12-2D] | [Project Work][12-3D] | [Presentations][12-4D] | 1:00 PM [Final Survey, Certificates, and Recap][12-5D]-->
 <!--**Homework** |[Project Work][12-1E] | [Project Work][12-2E] | [Project Work][12-3E] | [Presentations][12-4E] | 4:00 PM[ Happy Hour][12-5E]-->
 
@@ -361,7 +361,7 @@
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:00am Module 1** | [Whiteboarding (Alex)][2-1A] |      [HTML Forms (Ilias)][2-2A]                |  [AJAX & API's with jQuery (Ilias)][2-3A]   |  [OOP in JS (Alex)][2-4A]     | [Assessment (Ilias)][2-5A]
+ **9:00am Module 1** | [Whiteboarding (Alex)][2-1A] |      [HTML Forms (Ilias)][2-2A]                |  [AJAX & API's with jQuery (Ilias)][2-3A]   |  [OOP in JS (Alex)][2-4A]     | Assessment (Ilias)
  **10:45am Module 2** |[Git and GitHub (Alex)][2-1B]      |   [Responsive CSS (Ilias)][2-2B]  |    [Handlebars Templating (Ilias)][2-3B]  |    [OOP in JS (Alex)][2-4B]    | Review (Ilias)
 **1:15pm Module 3** |[Callbacks & Iterators (Ben)][2-1C]         |   [Mockups Lab][2-2C] |    [Geoquakes Lab (Ben)][2-3C]     |  Outcomes     | Culture Building (Alex)
 **3:00pm Module 4** | [Lab: Callbacks & Iterators (Ben)][2-1D]    |   [Intro jQuery (Ben)][2-2D]  | [Geoquakes Lab Cont'd (Ben)][2-3C] |  [OOP Racer (Alex)][2-4C]  | [Project 0 Intro (Alex)][2-5C]
