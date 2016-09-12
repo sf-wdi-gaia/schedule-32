@@ -318,7 +318,7 @@
 
 
 
-<!--## Unit 1: The Client-->
+## Unit 1: The Client
 
 <!--#### Week 3 - Project 1:  Browser Games-->
 
