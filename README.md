@@ -370,7 +370,7 @@ Time |Day 1                                      | Day 2                        
 [2-1A]: https://github.com/sf-wdi-gaia/whiteboarding "Whiteboarding"
 <!-- https://github.com/sf-wdi-gaia/git-and-github "Git and GitHub Branching and Pages" -->
 
-[2-1B]: https://github.com/awhit012/gh-lab "Git and GitHub lab"
+[2-1B]:https://github.com/sf-wdi-gaia/git-and-github "Git and GitHub lab"
 [2-1C]: https://github.com/sf-wdi-gaia/js-callbacks-iterators "Callbacks & Iterators"
 [2-1D]: https://github.com/sf-wdi-gaia/js-callbacks-iterators "Callbacks & Iterators Lab"
 [2-1E]: https://github.com/sf-wdi-gaia/js-building-iterators-lab "Building Iterators"
