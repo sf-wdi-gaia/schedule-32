@@ -389,7 +389,7 @@ Time |Day 1                                      | Day 2                        
 <!-- https://github.com/sf-wdi-gaia/jquery-datepicker-lab -->
 
 [2-3A]: https://github.com/sf-wdi-gaia/ajax-with-jquery "AJAX & APIs with jQuery"
-[2-3B]: https://github.com/sf-wdi-gaia/handlebars "Handlebars Templating"
+[2-3B]: https://github.com/sf-wdi-gaia/handlebars-client-side-templating "Handlebars Templating"
 [2-3C]: # "Geoquakes Lab"
 [2-3D]: # "Geoquakes Lab"
 <!-- https://github.com/sf-wdi-gaia/geoquakes -->
