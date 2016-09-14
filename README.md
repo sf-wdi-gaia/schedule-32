@@ -363,7 +363,7 @@ Time |Day 1                                      | Day 2                        
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
  **9:00am Module 1** | [Whiteboarding (Alex)][2-1A] |      [HTML Forms (Ilias)][2-2A]                |  [AJAX & API's with jQuery (Ilias)][2-3A]   |  [OOP in JS pt 1 (Alex)][2-4A]     | Assessment (Ilias)
  **10:45am Module 2** |[Git and GitHub (Alex)][2-1B]      |   [Responsive CSS (Ilias)][2-2B]  |    [Handlebars Templating (Ilias)][2-3B]  |    [OOP in JS pt 2 (Alex)][2-4B]    | Review (Ilias)
-**1:15pm Module 3** |[Callbacks & Iterators (Ben)][2-1C]         |  [jQuery DOM (Ben)][2-2C] [Browser Storage][2-2D] |    [Geoquakes Lab (Ben)][2-3C]     |  Outcomes     | Culture Building (Alex)
+**1:15pm Module 3** |[Callbacks & Iterators (Ben)][2-1C]         |  [jQuery DOM (Ben)][2-2C] [Browser Storage][2-2D] |    [Geoquakes Lab (N)][2-3C]     |  Outcomes     | Culture Building (Alex)
 **3:00pm Module 4** | [Lab: Callbacks & Iterators (Ben)][2-1D]    |  [jQuery Datepicker Lab (Ben)][2-2E]   | [Geoquakes Lab Cont'd (Ben)][2-3C] |  [OOP Racer (Alex)][2-4C]  | [Project 0 Intro (Alex)][2-5C]
 **Training** |[Building Iterators (Ben)][2-1E] | [More Mockups!][2-2F]  |  [OOP Prep (Video)][2-3E]  Finish Geoquakes Lab | [OOP Racer cont'd (Alex)][2-4C] | [Project 0 prework (Alex)][2-5E]
 
@@ -385,7 +385,7 @@ Time |Day 1                                      | Day 2                        
 
 [2-3A]: https://github.com/sf-wdi-gaia/ajax-with-jquery "AJAX & APIs with jQuery"
 [2-3B]: https://github.com/sf-wdi-gaia/handlebars-client-side-templating "Handlebars Templating"
-[2-3C]: # "Geoquakes Lab"
+[2-3C]: https://github.com/sf-wdi-gaia/geoquakes "Geoquakes Lab"
 [2-3D]: # "Geoquakes Lab"
 <!-- https://github.com/sf-wdi-gaia/geoquakes -->
 
