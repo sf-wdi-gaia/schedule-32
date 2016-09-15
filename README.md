@@ -386,15 +386,13 @@ Time |Day 1                                      | Day 2                        
 [2-3A]: https://github.com/sf-wdi-gaia/ajax-with-jquery "AJAX & APIs with jQuery"
 [2-3B]: https://github.com/sf-wdi-gaia/handlebars-client-side-templating "Handlebars Templating"
 [2-3C]: https://github.com/sf-wdi-gaia/geoquakes "Geoquakes Lab"
-[2-3D]: # "Geoquakes Lab"
-<!-- https://github.com/sf-wdi-gaia/geoquakes -->
+[2-3D]: https://github.com/sf-wdi-gaia/geoquakes "Geoquakes Lab"
 
 [2-3E]: https://www.youtube.com/watch?v=SS-9y0H3Si8 "OOP Prep"
 
 [2-4A]: https://github.com/sf-wdi-gaia/js-oop-flower-power "OOP Lesson"
 [2-4B]: https://github.com/sf-wdi-gaia/js-oop-flower-power "Flower Power OOP Lab"
-[2-4C]: # "OOP Concepts"
-<!-- https://github.com/sf-wdi-gaia/oop-concepts  -->
+[2-4C]: https://github.com/sf-wdi-gaia/geoquakes "OOP Racer"
 
 [2-4D]: # "OOP Concepts"
 [2-4E]: # "OOP Refactor (cont'd)"
