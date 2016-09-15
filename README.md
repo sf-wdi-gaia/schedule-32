@@ -392,7 +392,7 @@ Time |Day 1                                      | Day 2                        
 
 [2-4A]: https://github.com/sf-wdi-gaia/js-oop-flower-power "OOP Lesson"
 [2-4B]: https://github.com/sf-wdi-gaia/js-oop-flower-power "Flower Power OOP Lab"
-[2-4C]: https://github.com/sf-wdi-gaia/geoquakes "OOP Racer"
+[2-4C]: https://github.com/sf-wdi-gaia/OOP-Racer "OOP Racer"
 
 [2-4D]: # "OOP Concepts"
 [2-4E]: # "OOP Refactor (cont'd)"
