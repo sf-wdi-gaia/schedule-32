@@ -443,8 +443,7 @@ Time |Day 1                                      | Day 2                        
 
 [2-5C]: # "Review"
 [2-5D]: # "Create an Issue"
-[2-5E]: # "Fix an Issue"
-<!-- https://github.com/sf-wdi-gaia/create-an-issue/blob/master/readme.md#this-weekends-assignment -->
+[2-5E]: https://github.com/sf-wdi-gaia/project-1 "Weekend Lab"
 
 
 #### Week 1 - Fundamentals
