@@ -441,7 +441,7 @@ Time |Day 1                                      | Day 2                        
 [2-5B]: # "Questions in a Hat"
 <!-- https://github.com/sf-wdi-gaia/questions-in-a-hat/blob/master/week-02.md -->
 
-[2-5C]: # "Review"
+[2-5C]: https://github.com/sf-wdi-gaia/project-1 "Project 0"
 [2-5D]: # "Create an Issue"
 [2-5E]: https://github.com/sf-wdi-gaia/project-1 "Weekend Lab"
 
