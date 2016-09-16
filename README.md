@@ -1,3 +1,45 @@
+<!--
+
+#### Sample Week
+
+Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
+----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
+**9:00am Module 1** | [1A][x-1A] | [2A][x-2A]  | [3A][x-3A] | [4A][x-4A] | [5A][x-5A]
+ **10:45am Module 2** | [1B][x-1B] | [2B][x-2B]  | [3B][x-3B] | [4B][x-4B] | [5B][x-5B]
+**1:15pm Module 3** |[1C][x-1C]| [2C][x-2C]  | [3C][x-3C] | [4C][x-4C] | [5C][x-5C]
+**3:00pm Module 4** | [1D][x-1D] |  [2D][x-2D]|  [3D][x-3D]|  [4D][x-4D]| [5D][x-5D]
+**Training** | Training | Training | Training | Training | Training
+
+[x-1A]: # "..."
+[x-1B]: # "..."
+[x-1C]: # "..."
+[x-1D]: # "..."
+
+[x-2A]: # "..."
+[x-2B]: # "..."
+[x-2C]: # "..."
+[x-2D]: # "..."
+
+[x-3A]: # "..."
+[x-3B]: # "..."
+[x-3C]: # "..."
+[x-3D]: # "..."
+
+[x-4A]: # "..."
+[x-4B]: # "..."
+[x-4C]: # "..."
+[x-4D]: # "..."
+
+[x-5A]: # "..."
+[x-5B]: # "..."
+[x-5C]: # "..."
+[x-5D]: # "..."
+[x-5E]: # "..."
+[x-5F]: # "..."
+
+
+-->
+
 <!--## Unit 4: Client-side Frameworks-->
 
 <!--#### Week 12: Project 4-->
@@ -316,48 +358,46 @@
 <!--[4-5D]: # "Personal API Weekend Lab"-->
 <!--[4-5E]: http://poignant.guide/book/chapter-1 "Personal API Weekend Lab"-->
 
+## Unit 1: JavaScript Web Applications
 
+#### Week 3 — Server-side
 
-## Unit 1: The Client
+Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
+----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
+**9:00am Module 1** | [Science Fair (NA)][3-1A] | [RESTful Routes & Params (IT)][3-2A]  | [Mongo/Mongoose (IT)][3-3A] | [Agile (IT)][3-4A] | Assessment
+ **10:45am Module 2** | [Code Review (NA)][3-1B] | [RESTful Routes & Params (IT)][3-2B]  | [Book App pt 1 (IT)][3-3B] | [TDD (IT)][3-4B] | Review
+**1:15pm Module 3** |[Node & Express (IT)][3-1C]| [Todo API (NA)][3-2C]  | [Associations (NA)][3-3C] | [UX 101 (Billie)][3-4C] | [Personal API][3-5C]
+**3:00pm Module 4** | [Node & Express (IT)][3-1D] |  [Todo API (IT)][3-2D]|  [Book App pt 2-3 (NA)][3-3D]|  [Personal API][3-4D]| [Personal API][3-5D]
+**Training** | Training | Training | Training | Training | Training
 
-<!--#### Week 3 - Project 1:  Browser Games-->
+[3-1A]: # "..."
+[3-1B]: # "..."
+[3-1C]: # "..."
+[3-1D]: # "..."
 
-<!--Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5-->
-<!------- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | ------------------------------------->
-<!--**9:17am Module 1** | Review Training (Alex)| [Binary Search (Ben)][3-2A]  | [Bubble Sort (Alex)][3-3A] |[ Merge Sort (Ilias)][3-4A] | Feedback-->
-<!-- **10:45am Module 2** |[Sass/CSS preprocessors (Ben) ][3-1B]| [Project 1][3-2B]  | [Project 1][3-3B] | [Project 1][3-4B]| Presentations-->
-<!--**1:30pm Module 3** |[Agile development, wireframes, and user stories (Ilias)] [3-1C]| [Project 1][3-2C]  | [Project 1][3-3C] | [Outcomes][3-4C] |  Presentations-->
-<!--**3:00pm Module 4** | [Project 1 Specs][3-1D] |  [Project 1][3-2D]|  [Project 1][3-3D]|  [Project 1][3-4D]| [Happy Hour][3-5D]-->
-<!--**Training** | Project 1 | Project 1 | Project 1 | Project 1 | [Learn you Node][3-5E] and [Fix an Issue][3-5F]-->
+[3-2A]: # "..."
+[3-2B]: # "..."
+[3-2C]: # "..."
+[3-2D]: # "..."
 
-<!--[3-1A]: # "Review Training"-->
-<!--[3-1B]: https://github.com/sf-wdi-gaia/sass-intro "SASS Lesson"-->
-<!--[3-1C]: https://github.com/sf-wdi-gaia/software-development-best-practices "Agile development, wireframes, and user stories"-->
-<!--[3-1D]: https://github.com/sf-wdi-gaia/project-1 "Project 1 Specs"-->
+[3-3A]: # "..."
+[3-3B]: # "..."
+[3-3C]: # "..."
+[3-3D]: # "..."
 
-<!--[3-2A]: https://github.com/sf-wdi-gaia/binary-search "Binary Search"-->
-<!--[3-2B]: # "Project 1"-->
-<!--[3-2C]: # "Project 1"-->
-<!--[3-2D]: # "Project 1"-->
+[3-4A]: # "..."
+[3-4B]: # "..."
+[3-4C]: # "..."
+[3-4D]: # "..."
 
-<!--[3-3A]: https://github.com/sf-wdi-gaia/bubble-sort "Bubble Sort"-->
-<!--[3-3B]: # "Project 1"-->
-<!--[3-3C]: # "Project 1"-->
-<!--[3-3D]: # "Project 1"-->
-
-<!--[3-4A]: https://github.com/sf-wdi-gaia/merge-sort "Merge Sort"-->
-<!--[3-4B]: # "Project 1"-->
-<!--[3-4C]: # "Outcomes"-->
-<!--[3-4D]: # "Project 1"-->
-
-<!--[3-5A]: # "Presentations"-->
-<!--[3-5B]: # "Presentations"-->
-<!--[3-5C]: # "Review"-->
-<!--[3-5D]: # "Happy Hour"-->
-<!--[3-5E]: https://github.com/workshopper/learnyounode "Learn you Node"-->
-<!--[3-5F]: https://github.com/sf-wdi-gaia/create-an-issue-project1 "Fix an issue"-->
-
-#### Week 2 - JavaScript & Front-end Libraries
+[3-5A]: # "..."
+[3-5B]: # "..."
+[3-5C]: # "..."
+[3-5D]: # "..."
+[3-5E]: # "..."
+[3-5F]: # "..."
+ 
+#### Week 2 - JavaScript & Client-side Libraries
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
@@ -407,7 +447,7 @@ Time |Day 1                                      | Day 2                        
 <!-- https://github.com/sf-wdi-gaia/create-an-issue/blob/master/readme.md#this-weekends-assignment -->
 
 
-#### Week 1 - Fundamentals and Tools
+#### Week 1 - Fundamentals
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
