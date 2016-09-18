@@ -68,7 +68,7 @@ Time | Day 1                                      | Day 2                       
 [3-3D]: https://github.com/sf-wdi-gaia/mongoose-books-app "..."
 
 [3-4A]: https://github.com/sf-wdi-gaia/software-development-best-practices "..."
-[3-4B]: # "..."
+[3-4B]: https://github.com/sf-wdi-gaia/tdd-jasmine "..."
 [3-4C]: # "..."
 [3-4D]: # "..."
 
