@@ -67,7 +67,7 @@ Time | Day 1                                      | Day 2                       
 [3-3C]: # "..."
 [3-3D]: # "..."
 
-[3-4A]: # "..."
+[3-4A]: https://github.com/sf-wdi-gaia/software-development-best-practices "..."
 [3-4B]: # "..."
 [3-4C]: # "..."
 [3-4D]: # "..."
