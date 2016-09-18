@@ -48,14 +48,14 @@ Time | Day 1                                      | Day 2                       
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Module 1** | [Science Fair (NA)][3-1A] | [RESTful Routes & Params (IT)][3-2A]  | [Mongo/Mongoose (IT)][3-3A] | [Agile (IT)][3-4A] | Assessment
  **10:45am Module 2** | [Code Review (NA)][3-1B] | [RESTful Routes & Params (IT)][3-2B]  | [Book App pt 1 (IT)][3-3B] | [TDD (IT)][3-4B] | Review
-**1:15pm Module 3** |[Node & Express (IT)][3-1C]| [Todo API (NA)][3-2C]  | [Associations (NA)][3-3C] | [UX 101 (Billie)][3-4C] | [Personal API][3-5C]
-**3:00pm Module 4** | [Node & Express (IT)][3-1D] |  [Todo API (IT)][3-2D]|  [Book App pt 2-3 (NA)][3-3D]|  [Personal API][3-4D]| [Personal API][3-5D]
+**1:15pm Module 3** |[Node (IT)][3-1C]| [Todo API (NA)][3-2C]  | [Associations (NA)][3-3C] | [UX 101 (Billie)][3-4C] | [Personal API][3-5C]
+**3:00pm Module 4** | [Express (IT)][3-1D] |  [Todo API (IT)][3-2D]|  [Book App pt 2-3 (NA)][3-3D]|  [Personal API][3-4D]| [Personal API][3-5D]
 **Training** | Training | Training | Training | Training | Training
 
 [3-1A]: # "..."
 [3-1B]: # "..."
-[3-1C]: # "..."
-[3-1D]: # "..."
+[3-1C]: https://github.com/sf-wdi-gaia/nodejs "..."
+[3-1D]: https://github.com/sf-wdi-gaia/express "..."
 
 [3-2A]: # "..."
 [3-2B]: # "..."
