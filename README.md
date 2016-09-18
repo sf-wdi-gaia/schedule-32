@@ -57,8 +57,8 @@ Time | Day 1                                      | Day 2                       
 [3-1C]: https://github.com/sf-wdi-gaia/nodejs "..."
 [3-1D]: https://github.com/sf-wdi-gaia/express "..."
 
-[3-2A]: # "..."
-[3-2B]: # "..."
+[3-2A]: https://github.com/sf-wdi-gaia/express-dynamic-routes "..."
+[3-2B]: https://github.com/sf-wdi-gaia/express-routes-training "..."
 [3-2C]: # "..."
 [3-2D]: # "..."
 
