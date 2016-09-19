@@ -53,7 +53,7 @@ Time | Day 1                                      | Day 2                       
 **Training** | Training | Training | Training | Training | Training
 
 [3-1A]: # "..."
-[3-1B]: # "..."
+[3-1B]: https://github.com/sf-wdi-gaia/game-code-review "Game Code Review"
 [3-1C]: https://github.com/sf-wdi-gaia/nodejs "..."
 [3-1D]: https://github.com/sf-wdi-gaia/express "..."
 
