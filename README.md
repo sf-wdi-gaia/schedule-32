@@ -59,8 +59,8 @@ Time | Day 1                                      | Day 2                       
 
 [3-2A]: https://github.com/sf-wdi-gaia/express-dynamic-routes "..."
 [3-2B]: https://github.com/sf-wdi-gaia/express-routes-training "..."
-[3-2C]: # "..."
-[3-2D]: # "..."
+[3-2C]: https://github.com/sf-wdi-gaia/test-driven-todo-api "Todo Api"
+[3-2D]: https://github.com/sf-wdi-gaia/test-driven-todo-api "Todo Api"
 
 [3-3A]: # "..."
 [3-3B]: https://github.com/sf-wdi-gaia/mongoose-books-app "..."
