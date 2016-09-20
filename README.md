@@ -46,7 +46,7 @@ Time | Day 1                                      | Day 2                       
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Science Fair (NA)][3-1A] | [Routes & Params (IT)][3-2A]  | [Mongo/Mongoose (IT)][3-3A] | [Agile (IT)][3-4A] | Assessment
+**9:00am Module 1** | [Science Fair (NA)][3-1A] | [Routes & Params (IT)][3-2A]  | [Mongo][3-3A-1] / [Mongoose][3-3A-2] (IT) | [Agile (IT)][3-4A] | Assessment
  **10:45am Module 2** | [Code Review (NA)][3-1B] | [Routes & Params Training (IT)][3-2B]  | [Book App pt 1 (IT)][3-3B] | [TDD (IT)][3-4B] | Review
 **1:15pm Module 3** |[Node (IT)][3-1C]| [Todo API (NA)][3-2C]  | [Associations (NA)][3-3C] | UX 101 (Billie) | [Personal API][3-5C]
 **3:00pm Module 4** | [Express (IT)][3-1D] |  [Todo API (NA)][3-2D]|  [Book App pt 2-3 (NA)][3-3D]|  [Personal API][3-4D]| [Personal API][3-5D]
@@ -62,7 +62,8 @@ Time | Day 1                                      | Day 2                       
 [3-2C]: https://github.com/sf-wdi-gaia/test-driven-todo-api "Todo Api"
 [3-2D]: https://github.com/sf-wdi-gaia/test-driven-todo-api "Todo Api"
 
-[3-3A]: # "..."
+[3-3A-1]: https://github.com/sf-wdi-gaia/mongo-intro "..."
+[3-3A-2]: https://github.com/sf-wdi-gaia/mongoose "..."
 [3-3B]: https://github.com/sf-wdi-gaia/mongoose-books-app "..."
 [3-3C]: # "..."
 [3-3D]: https://github.com/sf-wdi-gaia/mongoose-books-app "..."
