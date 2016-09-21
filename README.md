@@ -65,7 +65,7 @@ Time | Day 1                                      | Day 2                       
 [3-3A-1]: https://github.com/sf-wdi-gaia/mongo-intro "..."
 [3-3A-2]: https://github.com/sf-wdi-gaia/mongoose "..."
 [3-3B]: https://github.com/sf-wdi-gaia/mongoose-books-app "..."
-[3-3C]: # "..."
+[3-3C]: https://github.com/sf-wdi-gaia/mongo-structured-data "mongo-structured-data"
 [3-3D]: https://github.com/sf-wdi-gaia/mongoose-books-app "..."
 
 [3-4A]: https://github.com/sf-wdi-gaia/software-development-best-practices "..."
