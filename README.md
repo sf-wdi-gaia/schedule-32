@@ -112,8 +112,8 @@ Time | Day 1                                      | Day 2                       
 
 [3-5A]: # "..."
 [3-5B]: # "..."
-[3-5C]: # "..."
-[3-5D]: # "..."
+[3-5C]: https://github.com/sf-wdi-gaia/express-personal-api "Personal API"
+[3-5D]: https://github.com/sf-wdi-gaia/express-personal-api "Personal API"
 [3-5E]: # "..."
 [3-5F]: # "..."
  
