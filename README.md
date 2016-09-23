@@ -42,6 +42,43 @@ Time | Day 1                                      | Day 2                       
 
 ## Unit 1: JavaScript Web Applications
 
+#### Week 4 — Full Stack Apps
+
+Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
+----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
+**9:00am Module 1** | [Tune.ly][x-1A] | [Tune.ly][x-2A] | [Binary Search (NA)][x-3A] | [Bubble Sort (NA)][x-4A] | [Big O (IT)][x-5A]
+ **10:45am Module 2** | [Tune.ly][x-1B] | [Tune.ly][x-2B] | [P2][x-3B] | [P2][x-4B] | [P2][x-5B]
+**1:15pm Module 3** |[Tune.ly][x-1C] | [Github Workflow (IT)][x-2C] | [P2][x-3C] | [P2][x-4C] | [P2][x-5C]
+**3:00pm Module 4** | [Tune.ly][x-1D] | [Project 2 Intro (NA)][x-2D] | [P2][x-3D] | [P2][x-4D] | [P2][x-5D]
+**Training** | Training | Training | Training | Training | Training
+
+[x-1A]: # "..."
+[x-1B]: # "..."
+[x-1C]: # "..."
+[x-1D]: # "..."
+
+[x-2A]: # "..."
+[x-2B]: # "..."
+[x-2C]: # "..."
+[x-2D]: # "..."
+
+[x-3A]: # "..."
+[x-3B]: # "..."
+[x-3C]: # "..."
+[x-3D]: # "..."
+
+[x-4A]: # "..."
+[x-4B]: # "..."
+[x-4C]: # "..."
+[x-4D]: # "..."
+
+[x-5A]: # "..."
+[x-5B]: # "..."
+[x-5C]: # "..."
+[x-5D]: # "..."
+[x-5E]: # "..."
+[x-5F]: # "..."
+
 #### Week 3 — Server-side
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
