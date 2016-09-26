@@ -52,7 +52,7 @@ Time | Day 1                                      | Day 2                       
 **3:00pm Module 4** | [Tune.ly][x-1D] | [Project 2 Intro (NA)][x-2D] | [P2][x-3D] | [P2][x-4D] | [P2][x-5D]
 **Training** | Training | Training | Training | Training | Training
 
-[x-1A]: # "..."
+[x-1A]: https://github.com/sf-wdi-gaia/tunely "..."
 [x-1B]: # "..."
 [x-1C]: # "..."
 [x-1D]: # "..."
