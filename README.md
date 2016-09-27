@@ -60,7 +60,7 @@ Time | Day 1                                      | Day 2                       
 [x-2A]: # "..."
 [x-2B]: # "..."
 [x-2C]: # "..."
-[x-2D]: # "..."
+[x-2D]: https://github.com/sf-wdi-gaia/project-2 "..."
 
 [x-3A]: # "..."
 [x-3B]: # "..."
