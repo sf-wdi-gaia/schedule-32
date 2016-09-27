@@ -46,10 +46,10 @@ Time | Day 1                                      | Day 2                       
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Tune.ly][x-1A] | [Tune.ly][x-2A] | [Binary Search (NA)][x-3A] | [Bubble Sort (NA)][x-4A] | [Big O (IT)][x-5A]
+**9:00am Module 1** | [Tune.ly][x-1A] | [Tune.ly][x-2A] | [Binary Search (NA)][x-3A] | [Big O (IT)][x-4A] | [Bubble Sort (NA)][x-5A]
  **10:45am Module 2** | [Tune.ly][x-1B] | [Tune.ly][x-2B] | [P2][x-3B] | [P2][x-4B] | [P2][x-5B]
-**1:15pm Module 3** |[Tune.ly][x-1C] | [Github Workflow (IT)][x-2C] | [P2][x-3C] | [P2][x-4C] | [P2][x-5C]
-**3:00pm Module 4** | [Tune.ly][x-1D] | [Project 2 Intro (NA)][x-2D] | [P2][x-3D] | [P2][x-4D] | [P2][x-5D]
+**1:15pm Module 3** |[Tune.ly][x-1C] | [Project 2 Intro (NA)][x-2C] | [Github Workflow][x-3C] | [P2][x-4C] | [P2][x-5C]
+**3:00pm Module 4** | [Tune.ly][x-1D] | [Project 2 Approvals][x-2D] | [P2][x-3D] | [P2][x-4D] | [P2][x-5D]
 **Training** | Training | Training | Training | Training | Training
 
 [x-1A]: https://github.com/sf-wdi-gaia/tunely "..."
@@ -59,12 +59,12 @@ Time | Day 1                                      | Day 2                       
 
 [x-2A]: # "..."
 [x-2B]: # "..."
-[x-2C]: # "..."
-[x-2D]: https://github.com/sf-wdi-gaia/project-2 "..."
+[x-2C]: https://github.com/sf-wdi-gaia/project-2 "..."
+[x-2D]: # "..."
 
 [x-3A]: # "..."
 [x-3B]: # "..."
-[x-3C]: # "..."
+[x-3C]: https://github.com/sf-wdi-gaia/github-collaboration "..."
 [x-3D]: # "..."
 
 [x-4A]: # "..."
