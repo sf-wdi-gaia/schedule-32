@@ -40,44 +40,82 @@ Time | Day 1                                      | Day 2                       
 
 -->
 
-## Unit 1: JavaScript Web Applications
+## SF WDI 32
+
+#### Week 5 — Angular
+
+Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
+----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
+**9:00am Module 1** | [Merge Sort (IT)][5-1A] | [Presentations][5-2A]  | [ngHangman (IT)][5-3A] | [\$http U/D (IT)][5-4A] | [Routing (NA)][5-5A]
+ **10:45am Module 2** | [P1][5-1B] | [Presentations][5-2B]  | [ngHangman (IT)][5-3B] | [\$http U/D (IT)][5-4B] | [Routing (NA)][5-5B]
+**1:15pm Module 3** |[P1][5-1C]| [Intro Angular (NA)][5-2C]  | [\$http C/R (NA)][5-3C] | [Outcomes][5-4C] | [Weekend MVP (IT)][5-5C]
+**3:00pm Module 4** | [P1][5-1D] |  [Intro Angular (NA)][5-2D]|  [\$http C/R (NA)][5-3D]|  [Review (NA)][5-4D]| [Weekend MVP (IT)][5-5D]
+**Training** | P1 | Training | Training | Training | Weekend MVP
+
+[5-1A]: # "..."
+[5-1B]: # "..."
+[5-1C]: # "..."
+[5-1D]: # "..."
+
+[5-2A]: # "..."
+[5-2B]: # "..."
+[5-2C]: # "..."
+[5-2D]: # "..."
+
+[5-3A]: # "..."
+[5-3B]: # "..."
+[5-3C]: # "..."
+[5-3D]: # "..."
+
+[5-4A]: # "..."
+[5-4B]: # "..."
+[5-4C]: # "..."
+[5-4D]: # "..."
+
+[5-5A]: # "..."
+[5-5B]: # "..."
+[5-5C]: # "..."
+[5-5D]: # "..."
+[5-5E]: # "..."
+[5-5F]: # "..."
+
 
 #### Week 4 — Full Stack Apps
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Tune.ly][x-1A] | [Tune.ly][x-2A] | [Binary Search (NA)][x-3A] | [Big O (IT)][x-4A] | [Bubble Sort (NA)][x-5A]
- **10:45am Module 2** | [Tune.ly][x-1B] | [Tune.ly][x-2B] | [P2][x-3B] | [P2][x-4B] | [P2][x-5B]
-**1:15pm Module 3** |[Tune.ly][x-1C] | [Project 2 Intro (NA)][x-2C] | [Github Workflow][x-3C] | [P2][x-4C] | [P2][x-5C]
-**3:00pm Module 4** | [Tune.ly][x-1D] | [Project 2 Approvals][x-2D] | [P2][x-3D] | [P2][x-4D] | [P2][x-5D]
-**Training** | Training | Training | Training | Training | Training
+**9:00am Module 1** | [Tune.ly][4-1A] | [Tune.ly][4-2A] | [Binary Search (NA)][4-3A] | [Big O (IT)][4-4A] | [Bubble Sort (NA)][4-5A]
+ **10:45am Module 2** | [Tune.ly][4-1B] | [Tune.ly][4-2B] | [P2][4-3B] | [P2][4-4B] | [P2][4-5B]
+**1:15pm Module 3** |[Tune.ly][4-1C] | [Project 2 Intro (NA)][4-2C] | [Github Workflow][4-3C] | [P2][4-4C] | [P2][4-5C]
+**3:00pm Module 4** | [Tune.ly][4-1D] | [Project 2 Approvals][4-2D] | [P2][4-3D] | [P2][4-4D] | [P2][4-5D]
+**Training** | Tune.ly | P2 | P2 | P2 | P2
 
-[x-1A]: https://github.com/sf-wdi-gaia/tunely "..."
-[x-1B]: # "..."
-[x-1C]: # "..."
-[x-1D]: # "..."
+[4-1A]: https://github.com/sf-wdi-gaia/tunely "..."
+[4-1B]: # "..."
+[4-1C]: # "..."
+[4-1D]: # "..."
 
-[x-2A]: # "..."
-[x-2B]: # "..."
-[x-2C]: https://github.com/sf-wdi-gaia/project-2 "..."
-[x-2D]: # "..."
+[4-2A]: # "..."
+[4-2B]: # "..."
+[4-2C]: https://github.com/sf-wdi-gaia/project-2 "..."
+[4-2D]: # "..."
 
-[x-3A]: https://github.com/sf-wdi-gaia/binary-search "Binary Search"
-[x-3B]: # "..."
-[x-3C]: https://github.com/sf-wdi-gaia/github-collaboration "..."
-[x-3D]: # "..."
+[4-3A]: https://github.com/sf-wdi-gaia/binary-search "Binary Search"
+[4-3B]: # "..."
+[4-3C]: https://github.com/sf-wdi-gaia/github-collaboration "..."
+[4-3D]: # "..."
 
-[x-4A]: https://github.com/sf-wdi-gaia/algorithm-complexity-and-big-o/blob/master/README.md "..."
-[x-4B]: # "..."
-[x-4C]: # "..."
-[x-4D]: # "..."
+[4-4A]: https://github.com/sf-wdi-gaia/algorithm-complexity-and-big-o/blob/master/README.md "..."
+[4-4B]: # "..."
+[4-4C]: # "..."
+[4-4D]: # "..."
 
-[x-5A]: # "..."
-[x-5B]: # "..."
-[x-5C]: # "..."
-[x-5D]: # "..."
-[x-5E]: # "..."
-[x-5F]: # "..."
+[4-5A]: # "..."
+[4-5B]: # "..."
+[4-5C]: # "..."
+[4-5D]: # "..."
+[4-5E]: # "..."
+[4-5F]: # "..."
 
 #### Week 3 — Server-side
 
