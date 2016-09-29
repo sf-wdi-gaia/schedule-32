@@ -46,10 +46,10 @@ Time | Day 1                                      | Day 2                       
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Merge Sort (IT)][5-1A] | [Presentations][5-2A]  | [ngHangman (IT)][5-3A] | [$http U/D (IT)][5-4A] | [Routing (NA)][5-5A]
- **10:45am Module 2** | [P1][5-1B] | [Presentations][5-2B]  | [ngHangman (IT)][5-3B] | [$http U/D (IT)][5-4B] | [Routing (NA)][5-5B]
+**9:00am Module 1** | [Merge Sort (IT)][5-1A] | [Presentations][5-2A]  | [ngHangman (IT)][5-3A] | [$http U/D (JW)][5-4A] | [Routing (JW)][5-5A]
+ **10:45am Module 2** | [P1][5-1B] | [Presentations][5-2B]  | [ngHangman (IT)][5-3B] | [$http U/D (JW)][5-4B] | [Routing (JW)][5-5B]
 **1:15pm Module 3** |[P1][5-1C]| [Intro Angular (NA)][5-2C]  | [$http C/R (NA)][5-3C] | [Outcomes][5-4C] | [Weekend MVP (IT)][5-5C]
-**3:00pm Module 4** | [P1][5-1D] |  [Intro Angular (NA)][5-2D]|  [$http C/R (NA)][5-3D]|  [Review (NA)][5-4D]| [Weekend MVP (IT)][5-5D]
+**3:00pm Module 4** | [P1][5-1D] |  [Intro Angular (NA)][5-2D]|  [$http C/R (NA)][5-3D]|  [Review (IT)][5-4D]| [Weekend MVP (IT)][5-5D]
 **Training** | P1 | Training | Training | Training | Weekend MVP
 
 [5-1A]: # "..."
