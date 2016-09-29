@@ -62,12 +62,12 @@ Time | Day 1                                      | Day 2                       
 [x-2C]: https://github.com/sf-wdi-gaia/project-2 "..."
 [x-2D]: # "..."
 
-[x-3A]: https://github.com/sf-wdi-gaia/binary-search "Binawy Seawch"
+[x-3A]: https://github.com/sf-wdi-gaia/binary-search "Binary Search"
 [x-3B]: # "..."
 [x-3C]: https://github.com/sf-wdi-gaia/github-collaboration "..."
 [x-3D]: # "..."
 
-[x-4A]: # "..."
+[x-4A]: https://github.com/sf-wdi-gaia/algorithm-complexity-and-big-o/blob/master/README.md "..."
 [x-4B]: # "..."
 [x-4C]: # "..."
 [x-4D]: # "..."
