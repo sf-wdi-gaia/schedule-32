@@ -110,7 +110,7 @@ Time | Day 1                                      | Day 2                       
 [4-4C]: # "..."
 [4-4D]: # "..."
 
-[4-5A]: https://github.com/sf-wdi-gaia/bubble-sort Bubba Sort
+[4-5A]: https://github.com/sf-wdi-gaia/bubble-sort "Bubba Sort"
 [4-5B]: # "..."
 [4-5C]: # "..."
 [4-5D]: # "..."
