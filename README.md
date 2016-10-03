@@ -52,7 +52,7 @@ Time | Day 1                                      | Day 2                       
 **3:00pm Module 4** | [P1][5-1D] |  [Intro Angular (NA)][5-2D]|  [$http C/R (NA)][5-3D]|  [Review (IT)][5-4D]| [Book App (IT)][5-5D]
 **Training** | P1 | Training | Training | Training | Weekend MVP
 
-[5-1A]: # "..."
+[5-1A]: https://github.com/sf-wdi-gaia/merge-sort "..."
 [5-1B]: # "..."
 [5-1C]: # "..."
 [5-1D]: # "..."
