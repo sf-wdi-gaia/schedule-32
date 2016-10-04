@@ -34,8 +34,6 @@ Time | Day 1                                      | Day 2                       
 [x-5B]: # "..."
 [x-5C]: # "..."
 [x-5D]: # "..."
-[x-5E]: # "..."
-[x-5F]: # "..."
 
 
 -->
@@ -75,10 +73,8 @@ Time | Day 1                                      | Day 2                       
 
 [5-5A]: # "..."
 [5-5B]: # "..."
-[5-5C]: # "..."
-[5-5D]: # "..."
-[5-5E]: # "..."
-[5-5F]: # "..."
+[5-5C]: https://github.com/sf-wdi-gaia/angular-books-crud-lab "..."
+[5-5D]: https://github.com/sf-wdi-gaia/angular-books-crud-lab "..."
 
 
 #### Week 4 — Full Stack Apps
