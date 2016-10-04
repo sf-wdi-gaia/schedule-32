@@ -63,8 +63,8 @@ Time | Day 1                                      | Day 2                       
 [5-2CB]: https://github.com/sf-wdi-gaia/intro_angular_challenges "Intro Angular Challenges"
 [5-2D]: https://github.com/sf-wdi-gaia/tunely-angular "Tunely Angular"
 
-[5-3A]: # "..."
-[5-3B]: # "..."
+[5-3A]: https://github.com/sf-wdi-gaia/ng-hangman "..."
+[5-3B]: https://github.com/sf-wdi-gaia/ng-hangman "..."
 [5-3C]: # "..."
 [5-3D]: # "..."
 
