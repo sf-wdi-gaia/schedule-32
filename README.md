@@ -59,9 +59,9 @@ Time | Day 1                                      | Day 2                       
 
 [5-2A]: # "..."
 [5-2B]: # "..."
-[5-2CA]: # https://github.com/sf-wdi-gaia/intro-angular "Intro Angular Notes"
-[5-2CB]: # https://github.com/sf-wdi-gaia/intro_angular_challenges "Intro Angular Challenges"
-[5-2D]: # https://github.com/sf-wdi-gaia/tunely-angular "Tunely Angular"
+[5-2CA]: https://github.com/sf-wdi-gaia/intro-angular "Intro Angular Notes"
+[5-2CB]: https://github.com/sf-wdi-gaia/intro_angular_challenges "Intro Angular Challenges"
+[5-2D]: https://github.com/sf-wdi-gaia/tunely-angular "Tunely Angular"
 
 [5-3A]: # "..."
 [5-3B]: # "..."
