@@ -72,7 +72,7 @@ Time | Day 1                                      | Day 2                       
 [5-4D]: # "..."
 
 [5-5A]: # "..."
-[5-5B]: # "..."
+[5-5B]: https://github.com/sf-wdi-gaia/angular-routing "..."
 [5-5C]: https://github.com/sf-wdi-gaia/angular-books-crud-lab "..."
 [5-5D]: https://github.com/sf-wdi-gaia/angular-books-crud-lab "..."
 
