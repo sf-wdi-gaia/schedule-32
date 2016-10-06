@@ -72,7 +72,7 @@ Time | Day 1                                      | Day 2                       
 [5-4D]: # "..."
 
 [5-5A]: https://github.com/sf-wdi-gaia/angular-routing "..."
-[5-5B]: # "..."
+[5-5B]: https://github.com/sf-wdi-gaia/tunely-angular/blob/master/docs/sprint4.md "..."
 [5-5C]: https://github.com/sf-wdi-gaia/angular-books-crud-lab "..."
 [5-5D]: https://github.com/sf-wdi-gaia/angular-books-crud-lab "..."
 
