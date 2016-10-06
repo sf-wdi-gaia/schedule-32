@@ -50,7 +50,7 @@ Time | Day 1                                      | Day 2                       
 **3:00pm Module 4** | [Ruby OOP (IT)][6-1D] |  [TDD Exercises][6-2D]|  [TDD Exercises][6-3D]|  [TDD Exercises][6-4D]| [Active Record Lab][6-5D]
 **Training** | Training | Training | Training | Training | Training
 
-[6-1A]: # "..."
+[6-1A]: https://github.com/sf-wdi-gaia/intro-ruby-1 "..."
 [6-1B]: # "..."
 [6-1C]: # "..."
 [6-1D]: # "..."
