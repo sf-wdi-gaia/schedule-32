@@ -51,7 +51,7 @@ Time | Day 1                                      | Day 2                       
 **Training** | Training | Training | Training | Training | Training
 
 [6-1A]: https://github.com/sf-wdi-gaia/intro-ruby-1 "..."
-[6-1B]: # "..."
+[6-1B]: https://github.com/sf-wdi-gaia/ruby-koans "..."
 [6-1C]: # "..."
 [6-1D]: # "..."
 
