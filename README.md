@@ -83,7 +83,7 @@ Time | Day 1                                      | Day 2                       
  **10:45am Module 2** | [P1][5-1B] | [Presentations][5-2B]  | [ngHangman (IT)][5-3B] | [$http U/D (JW)][5-4B] | [Routing (JW)][5-5B]
 **1:15pm Module 3** |[P1][5-1C]| Intro Angular [lecture][5-2CA] & [lab][5-2CB] (NA)  | [$http C/R (NA)][5-3C] | [Outcomes][5-4C] | [Book App (IT)][5-5C]
 **3:00pm Module 4** | [P1][5-1D] |  [Tunely-Angular Sprint#1 (NA)][5-2D]|  [$http C/R (NA)][5-3D]|  [Review (IT)][5-4D]| [Book App (IT)][5-5D]
-**Training** | P1 | Training | Training | 2hrs on [Codeschool][5-4E] or [Codewars][5-4F] JS exercises | Weekend MVP
+**Training** | P1 | Training | Training | [Codeschool][5-4E] || [Codewars][5-4F] JS exercises | Weekend MVP
 
 [5-1A]: https://github.com/sf-wdi-gaia/merge-sort "..."
 [5-1B]: # "..."
