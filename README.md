@@ -39,6 +39,42 @@ Time | Day 1                                      | Day 2                       
 -->
 
 ## SF WDI 32
+
+#### Week 6 — Ruby
+
+Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
+----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
+**9:00am Module 1** | [Intro Ruby (JW)][6-1A] | [RSpec (IT)][6-2A]  | [TDD Exercises][6-3A] | [TDD Exercises][6-4A] | [Data Modeling & SQL][6-5A]
+ **10:45am Module 2** | [Intro Ruby (JW)][6-1B] | [RSpec (IT)][6-2B]  | [TDD Exercises][6-3B] | [TDD Exercises][6-4B] | [Data Modeling & SQL][6-5B]
+**1:15pm Module 3** |[Ruby OOP (IT)][6-1C]| [TDD Exercises][6-2C]  | [TDD Exercises][6-3C] | [TDD Exercises][6-4C] | [Active Record][6-5C]
+**3:00pm Module 4** | [Ruby OOP (IT)][6-1D] |  [TDD Exercises][6-2D]|  [TDD Exercises][6-3D]|  [TDD Exercises][6-4D]| [Active Record Lab][6-5D]
+**Training** | Training | Training | Training | Training | Training
+
+[6-1A]: # "..."
+[6-1B]: # "..."
+[6-1C]: # "..."
+[6-1D]: # "..."
+
+[6-2A]: # "..."
+[6-2B]: # "..."
+[6-2C]: # "..."
+[6-2D]: # "..."
+
+[6-3A]: # "..."
+[6-3B]: # "..."
+[6-3C]: # "..."
+[6-3D]: # "..."
+
+[6-4A]: # "..."
+[6-4B]: # "..."
+[6-4C]: # "..."
+[6-4D]: # "..."
+
+[6-5A]: # "..."
+[6-5B]: # "..."
+[6-5C]: # "..."
+[6-5D]: # "..."
+
 #### Week 5 — Angular
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
