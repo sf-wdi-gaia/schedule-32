@@ -56,8 +56,8 @@ Time | Day 1                                      | Day 2                       
 [6-1D]: https://github.com/sf-wdi-gaia/ruby-oop/blob/master/readme.md "..."
 [6-1E]: https://www.codeschool.com/courses/testing-with-rspec "..."
 
-[6-2A]: # "..."
-[6-2B]: # "..."
+[6-2A]: https://github.com/sf-wdi-gaia/rspec "..."
+[6-2B]: https://github.com/sf-wdi-gaia/rspec "..."
 [6-2C]: # "..."
 [6-2D]: # "..."
 
