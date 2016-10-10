@@ -52,8 +52,8 @@ Time | Day 1                                      | Day 2                       
 
 [6-1A]: https://github.com/sf-wdi-gaia/intro-ruby-1 "..."
 [6-1B]: https://github.com/sf-wdi-gaia/ruby-koans "..."
-[6-1C]: # "..."
-[6-1D]: # "..."
+[6-1C]: https://github.com/sf-wdi-gaia/ruby-oop/blob/master/readme.md "..."
+[6-1D]: https://github.com/sf-wdi-gaia/ruby-oop/blob/master/readme.md "..."
 
 [6-2A]: # "..."
 [6-2B]: # "..."
