@@ -47,13 +47,13 @@ Time | Day 1                                      | Day 2                       
 **9:00am Module 1** | [Intro Ruby (JW)][6-1A] | [RSpec (IT)][6-2A]  | [TDD Exercises][6-3A] | [TDD Exercises][6-4A] | [Data Modeling & SQL][6-5A]
  **10:45am Module 2** | [Intro Ruby (JW)][6-1B] | [RSpec (IT)][6-2B]  | [TDD Exercises][6-3B] | [TDD Exercises][6-4B] | [Data Modeling & SQL][6-5B]
 **1:15pm Module 3** |[Ruby OOP (IT)][6-1C]| [TDD Exercises][6-2C]  | [TDD Exercises][6-3C] | [TDD Exercises][6-4C] | [Active Record][6-5C]
-**3:00pm Module 4** | [Ruby OOP (IT)][6-1D] |  [TDD Exercises][6-2D]|  [TDD Exercises][6-3D]|  [TDD Exercises][6-4D]| [Active Record Lab][6-5D]
+**3:00pm Module 4** | [Ruby OOP Lab (IT)][6-1D] |  [TDD Exercises][6-2D]|  [TDD Exercises][6-3D]|  [TDD Exercises][6-4D]| [Active Record Lab][6-5D]
 **Training** | [Training: RSpec][6-1E] | Training | Training | Training | Training
 
 [6-1A]: https://github.com/sf-wdi-gaia/intro-ruby-1 "..."
 [6-1B]: https://github.com/sf-wdi-gaia/ruby-koans "..."
 [6-1C]: https://github.com/sf-wdi-gaia/ruby-oop/blob/master/readme.md "..."
-[6-1D]: https://github.com/sf-wdi-gaia/ruby-oop/blob/master/readme.md "..."
+[6-1D]: https://github.com/sf-wdi-gaia/landlord-ruby-oop "..."
 [6-1E]: https://www.codeschool.com/courses/testing-with-rspec "..."
 
 [6-2A]: https://github.com/sf-wdi-gaia/rspec "..."
