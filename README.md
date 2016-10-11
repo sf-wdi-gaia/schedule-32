@@ -48,7 +48,7 @@ Time | Day 1                                      | Day 2                       
  **10:45am Module 2** | [Intro Ruby (JW)][6-1B] | [RSpec (IT)][6-2B]  | [TDD Exercises][6-3B] | [TDD Exercises][6-4B] | [Data Modeling & SQL][6-5B]
 **1:15pm Module 3** |[Ruby OOP (IT)][6-1C]| [Username Generator][6-2C]  | [TDD Exercises][6-3C] | [TDD Exercises][6-4C] | [Active Record][6-5C]
 **3:00pm Module 4** | [Ruby OOP Lab (IT)][6-1D] |  [Username Generator][6-2D]|  [TDD Exercises][6-3D]|  [TDD Exercises][6-4D]| [Active Record Lab][6-5D]
-**Training** | [Training: RSpec][6-1E] | Training | Training | Training | Training
+**Training** | [Training: RSpec][6-1E] | [Method Drills][6-2E] | [Method Drills][6-2E] | Training | Training
 
 [6-1A]: https://github.com/sf-wdi-gaia/intro-ruby-1 "..."
 [6-1B]: https://github.com/sf-wdi-gaia/ruby-koans "..."
@@ -60,11 +60,13 @@ Time | Day 1                                      | Day 2                       
 [6-2B]: https://github.com/sf-wdi-gaia/rspec "..."
 [6-2C]: https://github.com/sf-wdi-gaia/username-generator "Username Generator"
 [6-2D]: https://github.com/sf-wdi-gaia/username-generator "Username Generator"
+[6-2E]: https://github.com/SF-WDI-LABS/ruby_method_drills "Ruby Method Drills"
 
 [6-3A]: # "..."
 [6-3B]: # "..."
 [6-3C]: # "..."
 [6-3D]: # "..."
+[6-3E]: https://github.com/SF-WDI-LABS/ruby_method_drills "Ruby Method Drills"
 
 [6-4A]: # "..."
 [6-4B]: # "..."
