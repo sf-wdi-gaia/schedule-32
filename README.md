@@ -45,7 +45,7 @@ Time | Day 1                                      | Day 2                       
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Module 1** | [Intro Ruby (JW)][6-1A] | [RSpec (IT)][6-2A]  | [The Dream][6-3A] | [TDD Exercises][6-4A] | [Data Modeling & SQL][6-5A]
- **10:45am Module 2** | [Intro Ruby (JW)][6-1B] | [RSpec (IT)][6-2B]  | [The Dream][6-3B] | [TDD Exercises][6-4B] | [Data Modeling & SQL][6-5B]
+ **10:45am Module 2** | [Intro Ruby (JW)][6-1B] | [RSpec (IT)][6-2B]  | [Cipher][6-3B] | [TDD Exercises][6-4B] | [Data Modeling & SQL][6-5B]
 **1:15pm Module 3** |[Ruby OOP (IT)][6-1C]| [Username Generator][6-2C]  | [TDD Exercises][6-3C] | [TDD Exercises][6-4C] | [Active Record][6-5C]
 **3:00pm Module 4** | [Ruby OOP Lab (IT)][6-1D] |  [Username Generator][6-2D]|  [TDD Exercises][6-3D]|  [TDD Exercises][6-4D]| [Active Record Lab][6-5D]
 **Training** | [Training: RSpec][6-1E] | [Method Drills][6-2E] | [Method Drills][6-2E] | Training | Training
@@ -63,7 +63,7 @@ Time | Day 1                                      | Day 2                       
 [6-2E]: https://github.com/SF-WDI-LABS/ruby_method_drills "Ruby Method Drills"
 
 [6-3A]: https://github.com/sf-wdi-gaia/the-dream "..."
-[6-3B]: https://github.com/sf-wdi-gaia/the-dream "..."
+[6-3B]: https://github.com/sf-wdi-gaia/ruby-cipher-challenge "..."
 [6-3C]: # "..."
 [6-3D]: # "..."
 [6-3E]: https://github.com/SF-WDI-LABS/ruby_method_drills "Ruby Method Drills"
