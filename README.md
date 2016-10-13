@@ -48,7 +48,7 @@ Time | Day 1                                      | Day 2                       
  **10:45am Module 2** | [Intro Ruby (JW)][6-1B] | [RSpec (IT)][6-2B]  | [Cipher (IT)][6-3B] | Review (NA) | [Data Modeling & SQL Lab (NA)][6-5B]
 **1:15pm Module 3** |[Ruby OOP (IT)][6-1C]| [Username Generator][6-2C]  | [Go Fish (NA)][6-3C] (NA) | Outcomes | [Active Record (IT)][6-5C]
 **3:00pm Module 4** | [Ruby OOP Lab (IT)][6-1D] |  [Username Generator][6-2D]|  [Go Fish (NA)][6-3D] (NA)|  [Roman Numerals (IT)][6-4D]| [Active Record Lab (IT)][6-5D]
-**Training** | [Training: RSpec][6-1E] | [Method Drills][6-2E] | [Method Drills][6-2E] | Training | Training
+**Training** | [Training: RSpec][6-1E] | [Method Drills][6-2E] | [Method Drills][6-2E] | Training | [Rails Guides: Intro][6-4E] & [Rails 4 Zombies!][6-4F]
 
 [6-1A]: https://github.com/sf-wdi-gaia/intro-ruby-1 "..."
 [6-1B]: https://github.com/sf-wdi-gaia/ruby-koans "..."
@@ -72,6 +72,8 @@ Time | Day 1                                      | Day 2                       
 [6-4B]: # "..."
 [6-4C]: # "..."
 [6-4D]: https://github.com/sf-wdi-gaia/ruby-roman-numerals-challenge "..."
+[6-4E]: http://guides.rubyonrails.org/getting_started.html "..."
+[6-4F]: http://railsforzombies.org/ "..."
 
 [6-5A]: # "..."
 [6-5B]: # "..."
