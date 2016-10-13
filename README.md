@@ -44,7 +44,7 @@ Time | Day 1                                      | Day 2                       
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Intro Ruby (JW)][6-1A] | [RSpec (IT)][6-2A]  | [The Dream][6-3A] | [Review][6-4A] | [Data Modeling & SQL (NA)][6-5A]
+**9:00am Module 1** | [Intro Ruby (JW)][6-1A] | [RSpec (IT)][6-2A]  | [The Dream][6-3A] | Review | [Data Modeling & SQL (NA)][6-5A]
  **10:45am Module 2** | [Intro Ruby (JW)][6-1B] | [RSpec (IT)][6-2B]  | [Cipher][6-3B] | [Roman Numerals][6-4B] | [Data Modeling & SQL Lab (NA)][6-5B]
 **1:15pm Module 3** |[Ruby OOP (IT)][6-1C]| [Username Generator][6-2C]  | [Go Fish][6-3C] (NA) | Outcomes | [Active Record (IT)][6-5C]
 **3:00pm Module 4** | [Ruby OOP Lab (IT)][6-1D] |  [Username Generator][6-2D]|  [Go Fish][6-3D] (NA)|  [TDD Exercises][6-4D]| [Active Record Lab (IT)][6-5D]
