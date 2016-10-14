@@ -77,8 +77,8 @@ Time | Day 1                                      | Day 2                       
 
 [6-5A]: https://github.com/sf-wdi-gaia/sql "intro SQL"
 [6-5B]: https://github.com/sf-wdi-gaia/sql-carmen-sandiego "sql-carmen-sandiego"
-[6-5C]: # "..."
-[6-5D]: # "..."
+[6-5C]: https://github.com/sf-wdi-gaia/active-record-models "..."
+[6-5D]: https://github.com/sf-wdi-gaia/active-record-models "..."
 
 #### Week 5 — Angular
 
