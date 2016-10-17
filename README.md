@@ -51,8 +51,8 @@ Time | Day 1                                      | Day 2                       
 **3:00pm Module 4** | [Controllers, Routes][7-2D] (IT) |  [Validations & Errors][7-2D]|  [Library App 1][7-3D]|  [Lib App 2][7-4D]| [Weekend Lab][7-5D]
 **Training** | Rails Guides | Cookies & Sessions | Rails Guides | Rails Guides | Rails Guides
 
-[7-1A]: # "..."
-[7-1B]: # "..."
+[7-1A]: https://github.com/sf-wdi-gaia/rails-intro "Intro to Rails"
+[7-1B]: https://github.com/sf-wdi-gaia/rock-n-rails "Rock-n-Rails Lab"
 [7-1C]: # "..."
 [7-1D]: # "..."
 
