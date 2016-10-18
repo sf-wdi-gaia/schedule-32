@@ -47,9 +47,9 @@ Time | Day 1                                      | Day 2                       
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Module 1** | [Intro Rails][7-1A] (NA) | [Bog App][7-2A] (NA)  | [Auth][7-3A] (IT) | [Many-To-Many][7-4A] | [Review][7-5A]
  **10:45am Module 2** | [Rock-n-Rails][7-1B] (NA) | [Bog App][7-2B]  | [Auth][7-3B] (IT) | [Many-To-Many][7-4B] | [Review][7-5B]
-**1:15pm Module 3** |[Review][7-1C] (IT) | [Validations & Errors][7-2C] (IT)  | [Library App 1][7-3C] (NA) | Outcomes | [Weekend Lab][7-5C]
-**3:00pm Module 4** | [Controllers/Routes][7-2D] & [Views/Helpers][7-2E] (IT) |  [Validations & Errors Lab][7-2D] (IT)|  [Library App 1][7-3D] (NA)|  [Lib App 2][7-4D]| [Weekend Lab][7-5D]
-**Training** | Rails Guides | Cookies & Sessions | Rails Guides | Rails Guides | Rails Guides
+**1:15pm Module 3** |[Review][7-1C] (IT) | [Validations & Errors][7-2C] & [Lab][7-2D] (IT)  | [Library App 1][7-3C] (NA) | Outcomes | [Weekend Lab][7-5C]
+**3:00pm Module 4** | [Controllers/Routes][7-2D] & [Views/Helpers][7-2E] (IT) |  [Sessions & Cookies][7-2E] & [Lab][7-2F] (IT)|  [Library App 1][7-3D] (NA)|  [Lib App 2][7-4D]| [Weekend Lab][7-5D]
+**Training** | Rails Guides | Finish Labs | Rails Guides | Rails Guides | Rails Guides
 
 [7-1A]: https://github.com/sf-wdi-gaia/rails-intro "Intro to Rails"
 [7-1B]: https://github.com/sf-wdi-gaia/rock-n-rails "Rock-n-Rails Lab"
@@ -60,7 +60,8 @@ Time | Day 1                                      | Day 2                       
 [7-2B]: https://github.com/sf-wdi-gaia/rails-bog-app "Bog App"
 [7-2C]: https://github.com/sf-wdi-gaia/rails-validations-errors "..."
 [7-2D]: https://github.com/sf-wdi-gaia/rails-validations-errors-lab "..."
-[7-2E]: # "..."
+[7-2E]: https://github.com/sf-wdi-gaia/cookies-sessions "..."
+[7-2F]: https://github.com/sf-wdi-gaia/cookie_monster_app "..."
 
 [7-3A]: # "..."
 [7-3B]: # "..."
