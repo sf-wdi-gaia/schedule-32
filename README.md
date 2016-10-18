@@ -63,8 +63,8 @@ Time | Day 1                                      | Day 2                       
 [7-2E]: https://github.com/sf-wdi-gaia/cookies-sessions "..."
 [7-2F]: https://github.com/sf-wdi-gaia/cookie_monster_app "..."
 
-[7-3A]: # "..."
-[7-3B]: # "..."
+[7-3A]: https://github.com/sf-wdi-gaia/rails-auth "..."
+[7-3B]: https://github.com/sf-wdi-gaia/rails-auth "..."
 [7-3C]: # "..."
 [7-3D]: # "..."
 
