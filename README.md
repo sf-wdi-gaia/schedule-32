@@ -56,8 +56,8 @@ Time | Day 1                                      | Day 2                       
 [7-1C]: # "..."
 [7-1D]: # "..."
 
-[7-2A]: # "..."
-[7-2B]: # "..."
+[7-2A]: https://github.com/sf-wdi-gaia/rails-bog-app "Bog App"
+[7-2B]: https://github.com/sf-wdi-gaia/rails-bog-app "Bog App"
 [7-2C]: # "..."
 [7-2D]: https://github.com/sf-wdi-gaia/rails-controllers-and-routes "..."
 [7-2E]: https://github.com/sf-wdi-gaia/rails-views-and-helpers "..."
