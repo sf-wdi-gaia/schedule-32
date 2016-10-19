@@ -65,8 +65,8 @@ Time | Day 1                                      | Day 2                       
 
 [7-3A]: https://github.com/sf-wdi-gaia/rails-auth "..."
 [7-3B]: https://github.com/sf-wdi-gaia/rails-auth "..."
-[7-3C]: # "..."
-[7-3D]: # "..."
+[7-3C]: https://github.com/sf-wdi-gaia/public_library_app "Library App"
+[7-3D]: https://github.com/sf-wdi-gaia/public_library_app "Library App"
 
 [7-4A]: https://github.com/sf-wdi-gaia/rails-associations "..."
 [7-4B]: https://github.com/sf-wdi-gaia/pet-lab "..."
