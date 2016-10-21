@@ -45,7 +45,7 @@ Time | Day 1                                      | Day 2                       
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Intro Rails][7-1A] (NA) | [Bog App][7-2A] (NA)  | [Auth][7-3A] (IT) | [Associations][7-4A] | [Migration Hell](https://github.com/SF-WDI-LABS/migration_hell)
+**9:00am Module 1** | [Intro Rails][7-1A] (NA) | [Bog App][7-2A] (NA)  | [Auth][7-3A] (IT) | [Associations][7-4A] | [Migration Hell][7-5A]
  **10:45am Module 2** | [Rock-n-Rails][7-1B] (NA) | [Bog App][7-2B]  | [Auth][7-3B] (IT) | [Associations Lab][7-4B] | [Review][7-5B]
 **1:15pm Module 3** |[Review][7-1C] (IT) | [Validations & Errors][7-2C] & [Lab][7-2D] (IT)  | [Library App 1][7-3C] (NA) | [Lib App 2][7-4C] | [Weekend Lab][7-5C]
 **3:00pm Module 4** | [Controllers/Routes][7-2D] & [Views/Helpers][7-2E] (IT) |  [Sessions & Cookies][7-2E] & [Lab][7-2F] (IT)|  [Library App 1][7-3D] (NA)|  [Lib App 2][7-4D]| [Weekend Lab][7-5D]
@@ -73,10 +73,10 @@ Time | Day 1                                      | Day 2                       
 [7-4C]: https://github.com/sf-wdi-gaia/public_library_app "Library App"
 [7-4D]: https://github.com/sf-wdi-gaia/public_library_app "Library App"
 
-[7-5A]: # "..."
-[7-5B]: # "..."
-[7-5C]: # "..."
-[7-5D]: # "..."
+[7-5A]: https://github.com/SF-WDI-LABS/migration_hell "Migration Hell"
+[7-5B]: https://github.com/arun-instructor/BookManagerApp "Review"
+[7-5C]: https://github.com/arun-instructor/BookManagerApp "Review"
+[7-5D]: https://github.com/sf-wdi-gaia/rails-weekend-build "Weekend Lab"
 
 #### Week 6 — Ruby
 
