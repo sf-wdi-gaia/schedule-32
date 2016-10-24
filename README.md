@@ -69,11 +69,6 @@ Time | Day 1                                      | Day 2                       
 [8-4C]: https://github.com/SF-WDI-gaia/project-vagabond "Project Vagabond"
 [8-4D]: https://github.com/SF-WDI-gaia/project-vagabond "Project Vagabond"
 
-[8-5A]: # ""
-[8-5B]: # ""
-[8-5C]: # ""
-[8-5D]: # ""
-
 #### Week 7 — Rails
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
