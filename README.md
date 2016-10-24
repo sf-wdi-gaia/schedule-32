@@ -44,10 +44,10 @@ Time | Day 1                                      | Day 2                       
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | Show & Tell | [Vagabond][8-2A]  | [Vagabond][8-3A] | [Vagabond][8-4A] | [Review][8-5A]
- **10:45am Module 2** | [Vagabond][8-1C] | [Vagabond][8-2B]  | [Vagabond][8-3B] | [Vagabond][8-4B] | [Review][8-5B]
-**1:15pm Module 3** |[Vagabond][8-1C]| [Vagabond][8-2C]  | [Vagabond][8-3C] | [Presentations][8-4C] | [Weekend Lab][8-5C]
-**3:00pm Module 4** | [Vagabond][8-1D] |  [Vagabond][8-2D]|  [Vagabond][8-3D]|  [Presentations][8-4D]| [Weekend Lab][8-5D]
+**9:00am Module 1** | Show & Tell | [Vagabond][8-2A]  | [Vagabond][8-3A] | [Vagabond][8-4A] | Review
+ **10:45am Module 2** | [Vagabond][8-1C] | [Vagabond][8-2B]  | [Vagabond][8-3B] | [Vagabond][8-4B] | Review
+**1:15pm Module 3** |[Vagabond][8-1C]| [Vagabond][8-2C]  | [Vagabond][8-3C] | [Presentations][8-4C] | Weekend Lab
+**3:00pm Module 4** | [Vagabond][8-1D] |  [Vagabond][8-2D]|  [Vagabond][8-3D]|  [Presentations][8-4D]| Weekend Lab
 
 [8-1A]: https://github.com/SF-WDI-gaia/project-vagabond "Project Vagabond"
 [8-1B]: https://github.com/SF-WDI-gaia/project-vagabond "Project Vagabond"
