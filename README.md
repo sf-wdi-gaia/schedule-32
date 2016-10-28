@@ -44,7 +44,7 @@ Time | Day 1                                      | Day 2                       
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | Show & Tell | [Vagabond][8-2A]  | [Vagabond][8-3A] | [Vagabond][8-4A] | Review
+**9:00am Module 1** | Show & Tell | [Vagabond][8-2A]  | [Vagabond][8-3A] | [Vagabond][8-4A] | [Rails Code Review][8-5A]
  **10:45am Module 2** | [Vagabond][8-1C] | [Vagabond][8-2B]  | [Vagabond][8-3B] | [Vagabond][8-4B] | Outcomes
 **1:15pm Module 3** |[Vagabond][8-1C]| [Vagabond][8-2C]  | [Vagabond][8-3C] | [Presentations][8-4C] | Feedback
 **3:00pm Module 4** | [Vagabond][8-1D] |  [Vagabond][8-2D]|  [Vagabond][8-3D]|  [Presentations][8-4D]| &nbsp;
@@ -69,6 +69,7 @@ Time | Day 1                                      | Day 2                       
 [8-4C]: https://github.com/SF-WDI-gaia/project-vagabond "Project Vagabond"
 [8-4D]: https://github.com/SF-WDI-gaia/project-vagabond "Project Vagabond"
 
+[8-5A]: https://github.com/sf-wdi-gaia/rails-code-review "Code Review"
 #### Week 7 — Rails
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
