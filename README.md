@@ -53,7 +53,7 @@
   <tr>
     <td><strong>Module 3</strong></td>
     <td> <!-- Week 9 - Monday Afternoon Module -->
-      JS in Rails
+    <a href="https://github.com/sf-wdi-gaia/ruby-lightning-talks">Gem Lightning Talks</a>
       (NA)
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon Module -->
