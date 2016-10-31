@@ -34,7 +34,7 @@
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 9 - Monday Morning Module 2 -->
-      JS in Rails
+      <a href="https://github.com/sf-wdi-gaia/turbolinks_challenge">JS in Rails</a>
       (NA)
     </td>
     <td> <!-- Week 9 - Tuesday Morning Module 2 -->
