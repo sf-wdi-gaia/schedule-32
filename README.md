@@ -1,44 +1,93 @@
-<!--
-
-#### Sample Week
-
-Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
------ |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [1A][x-1A] | [2A][x-2A]  | [3A][x-3A] | [4A][x-4A] | [5A][x-5A]
- **10:45am Module 2** | [1B][x-1B] | [2B][x-2B]  | [3B][x-3B] | [4B][x-4B] | [5B][x-5B]
-**1:15pm Module 3** |[1C][x-1C]| [2C][x-2C]  | [3C][x-3C] | [4C][x-4C] | [5C][x-5C]
-**3:00pm Module 4** | [1D][x-1D] |  [2D][x-2D]|  [3D][x-3D]|  [4D][x-4D]| [5D][x-5D]
-**Training** | Training | Training | Training | Training | Training
-
-[x-1A]: # "..."
-[x-1B]: # "..."
-[x-1C]: # "..."
-[x-1D]: # "..."
-
-[x-2A]: # "..."
-[x-2B]: # "..."
-[x-2C]: # "..."
-[x-2D]: # "..."
-
-[x-3A]: # "..."
-[x-3B]: # "..."
-[x-3C]: # "..."
-[x-3D]: # "..."
-
-[x-4A]: # "..."
-[x-4B]: # "..."
-[x-4C]: # "..."
-[x-4D]: # "..."
-
-[x-5A]: # "..."
-[x-5B]: # "..."
-[x-5C]: # "..."
-[x-5D]: # "..."
-
-
--->
-
 ## SF WDI 32
+
+## Week 9  - Rails Assets / Project 3
+<table>
+  <tr>
+    <th>Oct 31 - Nov 4</th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 9 - Monday Morning Module 1 -->
+    <a href="https://github.com/sf-wdi-gaia/rails-asset-pipeline">Asset Pipeline</a>
+    &amp;
+    <a href="https://github.com/sf-wdi-gaia/asset_pipeline_poem">Lab</a>
+      (NA)
+    </td>
+    <td> <!-- Week 9 - Tuesday Morning Module 1 -->
+      Lightning Talks
+    </td>
+    <td> <!-- Week 9 - Wednesday Morning Module 1 -->
+      P3
+    </td>
+    <td> <!-- Week 9 - Thursday Morning Module 1 -->
+      P3
+    </td>
+    <td> <!-- Week 9 - Friday Review -->
+      P3
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 9 - Monday Morning Module 2 -->
+      JS in Rails
+      (NA)
+    </td>
+    <td> <!-- Week 9 - Tuesday Morning Module 2 -->
+      Lightning Talks
+    </td>
+    <td> <!-- Week 9 - Wednesday Morning Module 2 -->
+      P3
+    </td>
+    <td> <!-- Week 9 - Thursday Morning Module 2 -->
+      P3
+    </td>
+    <td> <!-- Week 9 - Friday Morning Module 2 -->
+      P3
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 3</strong></td>
+    <td> <!-- Week 9 - Monday Afternoon Module -->
+      JS in Rails
+      (NA)
+    </td>
+    <td> <!-- Week 9 - Tuesday Afternoon Module -->
+      P3
+    </td>
+    <td> <!-- Week 9 - Wednesday Afternoon Module -->
+      P3
+    </td>
+    <td> <!-- Week 9 - Thursday Afternoon Module -->
+      P3
+    </td>
+    <td> <!-- Week 9 - Friday Afternoon / Weekend Lab -->
+      P3
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 4</strong></td>
+    <td> <!-- Week 9 - Monday Afternoon Module 4 -->
+      Lightning Talk Prep
+    </td>
+    <td> <!-- Week 9 - Tuesday Afternoon Module 4 -->
+      P3
+    </td>
+    <td> <!-- Week 9 - Wednesday Afternoon Module 4 -->
+      P3
+    </td>
+    <td> <!-- Week 9 - Thursday Afternoon Module 4 -->
+      P3
+    </td>
+    <td> <!-- Week 9 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
 
 #### Week 8 - Project Vagabond
 
