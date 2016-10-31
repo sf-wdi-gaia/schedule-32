@@ -15,7 +15,7 @@
     <td> <!-- Week 9 - Monday Morning Module 1 -->
     <a href="https://github.com/sf-wdi-gaia/rails-asset-pipeline">Asset Pipeline</a>
     &amp;
-    <a href="https://github.com/sf-wdi-gaia/asset_pipeline_poem">Lab</a>
+    <a href="https://github.com/sf-wdi-gaia/asset-pipeline-poem">Lab</a>
       (NA)
     </td>
     <td> <!-- Week 9 - Tuesday Morning Module 1 -->
