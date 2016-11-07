@@ -55,7 +55,7 @@
       P3
     </td>
     <td> <!-- Week 10 - Wednesday Afternoon Module -->
-      P3
+      Presentations
     </td>
     <td> <!-- Week 10 - Thursday Afternoon Module -->
       Debugging Lab / Feedback
@@ -73,7 +73,7 @@
       P3
     </td>
     <td> <!-- Week 10 - Wednesday Afternoon Module 4 -->
-      P3
+      Presentations
     </td>
     <td> <!-- Week 10 - Thursday Afternoon Module 4 -->
       Feedback
@@ -141,7 +141,7 @@
       (NA)
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon Module -->
-      P3
+      <a href="https://github.com/sf-wdi-gaia/project-03">P3</a>
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon Module -->
       P3
