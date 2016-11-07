@@ -1,5 +1,89 @@
 ## SF WDI 32
 
+## Week 10  - Project 3
+<table>
+  <tr>
+    <th>Nov 7 - 10</th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 10 - Monday Morning Module 1 -->
+      P3
+    </td>
+    <td> <!-- Week 10 - Tuesday Morning Module 1 -->
+      <img src="https://media.giphy.com/media/3oz8xveS8JKSkUJI52/source.gif" width="80px">
+    </td>
+    <td> <!-- Week 10 - Wednesday Morning Module 1 -->
+      P3
+    </td>
+    <td> <!-- Week 10 - Thursday Morning Module 1 -->
+      Debugging Lab
+    </td>
+    <td> <!-- Week 10 - Friday Review -->
+      NO CLASS
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 10 - Monday Morning Module 2 -->
+      P3
+    </td>
+    <td> <!-- Week 10 - Tuesday Morning Module 2 -->
+      P3
+    </td>
+    <td> <!-- Week 10 - Wednesday Morning Module 2 -->
+      P3
+    </td>
+    <td> <!-- Week 10 - Thursday Morning Module 2 -->
+      Debugging Lab / Feedback
+    </td>
+    <td> <!-- Week 10 - Friday Morning Module 2 -->
+      NO CLASS
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 3</strong></td>
+    <td> <!-- Week 10 - Monday Afternoon Module -->
+      P3
+    </td>
+    <td> <!-- Week 10 - Tuesday Afternoon Module -->
+      P3
+    </td>
+    <td> <!-- Week 10 - Wednesday Afternoon Module -->
+      P3
+    </td>
+    <td> <!-- Week 10 - Thursday Afternoon Module -->
+      Debugging Lab / Feedback
+    </td>
+    <td> <!-- Week 10 - Friday Afternoon / Weekend Lab -->
+      NO CLASS
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 4</strong></td>
+    <td> <!-- Week 10 - Monday Afternoon Module 4 -->
+      P3
+    </td>
+    <td> <!-- Week 10 - Tuesday Afternoon Module 4 -->
+      P3
+    </td>
+    <td> <!-- Week 10 - Wednesday Afternoon Module 4 -->
+      P3
+    </td>
+    <td> <!-- Week 10 - Thursday Afternoon Module 4 -->
+      Feedback
+    </td>
+    <td> <!-- Week 10 - Friday -->
+      NO CLASS
+    </td>
+  </tr>
+</table>
+
 ## Week 9  - Rails Assets / Project 3
 <table>
   <tr>
