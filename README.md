@@ -58,7 +58,7 @@
       Presentations
     </td>
     <td> <!-- Week 10 - Thursday Afternoon Module -->
-      Debugging Lab / Feedback
+      Outcomes
     </td>
     <td> <!-- Week 10 - Friday Afternoon / Weekend Lab -->
       NO CLASS
