@@ -22,7 +22,7 @@
       P3
     </td>
     <td> <!-- Week 10 - Thursday Morning Module 1 -->
-      Debugging Lab
+      <a href="https://github.com/sf-wdi-gaia/publify_debugging_lab">Debugging Lab</a>
     </td>
     <td> <!-- Week 10 - Friday Review -->
       NO CLASS
@@ -40,7 +40,7 @@
       P3
     </td>
     <td> <!-- Week 10 - Thursday Morning Module 2 -->
-      Debugging Lab / Feedback
+      <a href="https://github.com/sf-wdi-gaia/publify_debugging_lab">Debugging Lab</a> / Feedback
     </td>
     <td> <!-- Week 10 - Friday Morning Module 2 -->
       NO CLASS
