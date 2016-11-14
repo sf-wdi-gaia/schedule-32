@@ -176,8 +176,8 @@
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 11 - Monday Morning Module 1 -->
-      Deployment
-      (AS)
+      <a href="https://github.com/sf-wdi-gaia/rails-deployment">Deployment
+      (AS)</a>
     </td>
     <td> <!-- Week 11 - Tuesday Morning Module 1 -->
       FE Framework
