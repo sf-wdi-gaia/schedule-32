@@ -197,8 +197,8 @@
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 11 - Monday Morning Module 2 -->
-      Deployment
-      (AS)
+      <a href="https://github.com/sf-wdi-gaia/rails-deployment">Deployment
+      (AS)</a>
     </td>
     <td> <!-- Week 11 - Tuesday Morning Module 2 -->
       FE Framework
@@ -218,8 +218,8 @@
   <tr>
     <td><strong>Module 3</strong></td>
     <td> <!-- Week 11 - Monday Afternoon Module -->
-      Deployment
-      (AS)
+      <a href="https://github.com/sf-wdi-gaia/rails-deployment">Deployment
+      (AS)</a>
     </td>
     <td> <!-- Week 11 - Tuesday Afternoon Module -->
       FE Framework
