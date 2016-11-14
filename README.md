@@ -1,5 +1,265 @@
 ## SF WDI 32
 
+## Week 13  - Final Project / Graduation 
+<table>
+  <tr>
+    <th>Nov 28-30</th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 13 - Monday Morning Module 1 -->
+      Final Project
+    </td>
+    <td> <!-- Week 13 - Tuesday Morning Module 1 -->
+      Final Project  
+    </td>
+    <td> <!-- Week 13 - Wednesday Morning Module 1 -->
+      Feedback
+    </td>
+    <td> <!-- Week 13 - Thursday Morning Module 1 -->
+    </td>
+    <td> <!-- Week 13 - Friday Review -->
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 13 - Monday Morning Module 2 -->
+      Final Project
+    </td>
+    <td> <!-- Week 13 - Tuesday Morning Module 2 -->
+      Final Project
+    </td>
+    <td> <!-- Week 13 - Wednesday Morning Module 2 -->
+      Outcomes
+    </td>
+    <td> <!-- Week 13 - Thursday Morning Module 2 -->
+      NO CLASS
+    </td>
+    <td> <!-- Week 13 - Friday Morning Module 2 -->
+      NO CLASS
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 3</strong></td>
+    <td> <!-- Week 13 - Monday Afternoon Module -->
+      Final Project
+    </td>
+    <td> <!-- Week 13 - Tuesday Afternoon Module -->
+      Presentations
+    </td>
+    <td> <!-- Week 13 - Wednesday Afternoon Module -->
+      Feedback
+    </td>
+    <td> <!-- Week 13 - Thursday Afternoon Module -->
+      NO CLASS
+    </td>
+    <td> <!-- Week 13 - Friday Afternoon / Weekend Lab -->
+      NO CLASS
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 4</strong></td>
+    <td> <!-- Week 13 - Monday Afternoon Module 4 -->
+      Final Project
+    </td>
+    <td> <!-- Week 13 - Tuesday Afternoon Module 4 -->
+      <img src="https://media.giphy.com/media/3otO6zntMrmhpvaYX6/giphy.gif" width="80px">
+    </td>
+    <td> <!-- Week 13 - Wednesday Afternoon Module 4 -->
+      Feedback
+    </td>
+    <td> <!-- Week 13 - Thursday Afternoon Module 4 -->
+    </td>
+    <td> <!-- Week 13 - Friday -->
+    </td>
+  </tr>
+</table>
+
+
+## Week 12  - Final Project 
+<table>
+  <tr>
+    <th>Nov 21-22</th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 12 - Monday Morning Module 1 -->
+      Final Project
+    </td>
+    <td> <!-- Week 12 - Tuesday Morning Module 1 -->
+      Final Project
+    </td>
+    <td> <!-- Week 12 - Wednesday Morning Module 1 -->
+      NO CLASS
+    </td>
+    <td> <!-- Week 12 - Thursday Morning Module 1 -->
+      <img src="https://media.giphy.com/media/AxVvk1STKwGGGOU0GQ/giphy.gif" width="80px">
+    </td>
+    <td> <!-- Week 12 - Friday Review -->
+      NO CLASS
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 12 - Monday Morning Module 2 -->
+      Final Project
+    </td>
+    <td> <!-- Week 12 - Tuesday Morning Module 2 -->
+      Final Project
+    </td>
+    <td> <!-- Week 12 - Wednesday Morning Module 2 -->
+      NO CLASS
+    </td>
+    <td> <!-- Week 12 - Thursday Morning Module 2 -->
+      NO CLASS
+    </td>
+    <td> <!-- Week 12 - Friday Morning Module 2 -->
+      NO CLASS
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 3</strong></td>
+    <td> <!-- Week 12 - Monday Afternoon Module -->
+      Final Project
+    </td>
+    <td> <!-- Week 12 - Tuesday Afternoon Module -->
+      Outcomes
+    </td>
+    <td> <!-- Week 12 - Wednesday Afternoon Module -->
+      NO CLASS
+    </td>
+    <td> <!-- Week 12 - Thursday Afternoon Module -->
+      NO CLASS
+    </td>
+    <td> <!-- Week 12 - Friday Afternoon / Weekend Lab -->
+      NO CLASS
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 4</strong></td>
+    <td> <!-- Week 12 - Monday Afternoon Module 4 -->
+      Final Project
+    </td>
+    <td> <!-- Week 12 - Tuesday Afternoon Module 4 -->
+      Final Project
+    </td>
+    <td> <!-- Week 12 - Wednesday Afternoon Module 4 -->
+    </td>
+    <td> <!-- Week 12 - Thursday Afternoon Module 4 -->
+    </td>
+    <td> <!-- Week 12 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
+## Week 11  - Instructor's Choice / Final Project
+<table>
+  <tr>
+    <th>Nov 14 - 18</th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 11 - Monday Morning Module 1 -->
+      Deployment
+      (AS)
+    </td>
+    <td> <!-- Week 11 - Tuesday Morning Module 1 -->
+      FE Framework
+      (AS)
+    </td>
+    <td> <!-- Week 11 - Wednesday Morning Module 1 -->
+      FE Framework
+      (AS)
+    </td>
+    <td> <!-- Week 11 - Thursday Morning Module 1 -->
+      Final Project
+    </td>
+    <td> <!-- Week 11 - Friday Review -->
+      Final Project
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 11 - Monday Morning Module 2 -->
+      Deployment
+      (AS)
+    </td>
+    <td> <!-- Week 11 - Tuesday Morning Module 2 -->
+      FE Framework
+      (AS)
+    </td>
+    <td> <!-- Week 11 - Wednesday Morning Module 2 -->
+      FE Framework
+      (AS)
+    </td>
+    <td> <!-- Week 11 - Thursday Morning Module 2 -->
+      Final Project
+    </td>
+    <td> <!-- Week 11 - Friday Morning Module 2 -->
+      Final Project
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 3</strong></td>
+    <td> <!-- Week 11 - Monday Afternoon Module -->
+      Deployment
+      (AS)
+    </td>
+    <td> <!-- Week 11 - Tuesday Afternoon Module -->
+      FE Framework
+      (AS)
+    </td>
+    <td> <!-- Week 11 - Wednesday Afternoon Module -->
+      FE Framework
+      (AS)
+    </td>
+    <td> <!-- Week 11 - Thursday Afternoon Module -->
+      Outcomes
+    </td>
+    <td> <!-- Week 11 - Friday Afternoon / Weekend Lab -->
+      Final Project
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 4</strong></td>
+    <td> <!-- Week 11 - Monday Afternoon Module 4 -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 11 - Tuesday Afternoon Module 4 -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 11 - Wednesday Afternoon Module 4 -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 11 - Thursday Afternoon Module 4 -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 11 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
 ## Week 10  - Project 3
 <table>
   <tr>
