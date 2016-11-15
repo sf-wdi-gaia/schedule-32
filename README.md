@@ -180,12 +180,12 @@
       (AS)</a>
     </td>
     <td> <!-- Week 11 - Tuesday Morning Module 1 -->
-      FE Framework
-      (AS)
+      <a href="https://github.com/sf-wdi-gaia/rails-apis">FE Framework
+      (AS)</a>
     </td>
     <td> <!-- Week 11 - Wednesday Morning Module 1 -->
-      FE Framework
-      (AS)
+      <a href="https://github.com/sf-wdi-gaia/rails-apis">FE Framework
+      (AS)</a>
     </td>
     <td> <!-- Week 11 - Thursday Morning Module 1 -->
       Final Project
