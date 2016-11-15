@@ -201,12 +201,12 @@
       (AS)</a>
     </td>
     <td> <!-- Week 11 - Tuesday Morning Module 2 -->
-      FE Framework
-      (AS)
+      <a href="https://github.com/sf-wdi-gaia/rails-apis">FE Framework
+      (AS)</a>
     </td>
     <td> <!-- Week 11 - Wednesday Morning Module 2 -->
-      FE Framework
-      (AS)
+      <a href="https://github.com/sf-wdi-gaia/rails-apis">FE Framework
+      (AS)</a>
     </td>
     <td> <!-- Week 11 - Thursday Morning Module 2 -->
       Final Project
@@ -222,12 +222,12 @@
       (AS)</a>
     </td>
     <td> <!-- Week 11 - Tuesday Afternoon Module -->
-      FE Framework
-      (AS)
+      <a href="https://github.com/sf-wdi-gaia/rails-apis">FE Framework
+      (AS)</a>
     </td>
     <td> <!-- Week 11 - Wednesday Afternoon Module -->
-      FE Framework
-      (AS)
+      <a href="https://github.com/sf-wdi-gaia/rails-apis">FE Framework
+      (AS)</a>
     </td>
     <td> <!-- Week 11 - Thursday Afternoon Module -->
       Outcomes
