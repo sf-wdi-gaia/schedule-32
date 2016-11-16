@@ -239,20 +239,13 @@
   <tr>
     <td><strong>Module 4</strong></td>
     <td> <!-- Week 11 - Monday Afternoon Module 4 -->
-      Reading
-      (tbd)
     </td>
     <td> <!-- Week 11 - Tuesday Afternoon Module 4 -->
-      Reading
-      (tbd)
     </td>
     <td> <!-- Week 11 - Wednesday Afternoon Module 4 -->
-      Reading
-      (tbd)
+      <a href="https://github.com/sf-wdi-gaia/project-4">Final Project Spec</a>
     </td>
     <td> <!-- Week 11 - Thursday Afternoon Module 4 -->
-      Reading
-      (tbd)
     </td>
     <td> <!-- Week 11 - Friday -->
       <!-- BLANK -->
